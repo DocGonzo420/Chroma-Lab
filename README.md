@@ -10,7 +10,9 @@ A color palette reference you can use on your phone. Browse real photos with the
 - **Codes:** HEX, RGB, HSL and CMYK for every color, with tap to copy.
 - **Library:** save palettes and come back to them.
 - **Cards:** make a printable reference card for any palette.
-- **Install:** on a phone, tap **Install** at the top to add Chroma Lab to the home screen. It then opens like an app and works offline for photos you've already viewed.
+- **Random:** tap **Random** in Explore to open a random palette from the photos you're looking at.
+- **Today:** the Today tab shows a Palette of the Day, the same for everyone on a given date, plus the past week's picks.
+- **Install:** tap **Install** at the top to add Chroma Lab to the home screen. It then opens like an app and works offline for photos you've already viewed.
 
 ## Run it
 
