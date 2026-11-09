@@ -13,6 +13,7 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Québec house in autumn**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Autumnal_Retreat_in_Old_Quebec-_A_Canvas_of_Fading_Reds_and_Vibrant_Oranges.jpg)
 - **Seehornsee in late autumn**: Jörg Braukmann, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Seehornsee_im_Herbst.jpg)
 - **Schwetzingen palace garden in autumn**: Roman Eisele, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Schwetzingen_-_Schlossgarten_-_Gro%C3%9Fer_Weiher_-_Westende_mit_Br%C3%BCcke_im_Herbst_2.jpg)
+- **Pond garden in November, Osaka**: Laitche, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Scenery_of_the_pond_at_Shitenn%C5%8D-ji_Honb%C5%8D_Park_in_Osaka%2C_November_2015.jpg)
 
 ## Winter
 
@@ -25,6 +26,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Frosted oaks in fog, Langå**: Malene Thyssen, CC BY 2.5. [Source](https://commons.wikimedia.org/wiki/File:Langaa_egeskov_rimfrost.jpg)
 - **Frosty morning, De Alde Feanen**: Dominicus Johannes Bergsma, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Winter_in_%27It_Wikelsl%C3%A2n._Locatie%2C_De_Alde_Feanen_in_Friesland_01.jpg)
 - **Sun through a frosted beech forest, Mátra**: Susulyka, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Beech_forest_M%C3%A1tra_in_winter.jpg)
+- **Frost fog over the trees**: W.carter, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Frost_fog.jpg)
+- **Frosty morning at Raftsundet**: Ximonic (Simo Räsänen), CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Frosty_Raftsundet_landscape_with_Trolltindan_in_morning%2C_2012_October.JPG)
 
 ## Spring
 
@@ -37,6 +40,7 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Mirabelle plum blossom**: Trachemys, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Blossom_of_Mirabelle_plum.jpg)
 - **Apple blossoms**: George Chernilevsky, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Apple-tree_blossoms_2017_G3.jpg)
 - **Winter aconites in melting snow**: Dominicus Johannes Bergsma, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bloemknoppen_van_Winterakonieten_%28Eranthis_hyemalis%29_in_smeltende_sneeuw_16-02-2021._%28d.j.b%29.jpg)
+- **Spring snowflakes**: Ermell, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Fr%C3%BChlings-Knotenblume_%28Leucojum_vernum%29-20230220-RM-161056.jpg)
 
 ## Summer
 
@@ -49,6 +53,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Landmannalaugar in summer**: Chmee2/Valtameri, CC BY 3.0. [Source](https://commons.wikimedia.org/wiki/File:Landmannalaugar_in_summer_2009_%2813%29.jpg)
 - **Misty summer dawn on the Desna**: George Chernilevsky, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Desna_river_Vinn_meadow_2019_G01.jpg)
 - **Bumblebee on lavender**: Martin Falbisoner, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bumblebee_on_Lavender_Blossom.JPG)
+- **Bouquet of poppies**: George Chernilevsky, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Poppies_bouquet_2017_G1.jpg)
+- **Thatched cottage in the dunes**: Michael Gäbler, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Thatched_cottage_in_the_sand_dunes_by_Denmark.jpg)
 
 ## Forest
 
@@ -61,6 +67,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Spring green beech road, Wildacker**: Stephan van Helden, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Im_Naturwaldreservat_Wildacker_15.jpg)
 - **Quiver trees at golden hour, Namibia**: Hans Stieglitz, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:K%C3%B6cherbaumwald-01.jpg)
 - **Bush canopy at sunset, Lake Kaniere**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bush_canopy_during_sunset_in_Lake_Kaniere_Scenic_Reserve%2C_West_Coast%2C_New_Zealand.jpg)
+- **Sun through fog, Bryant Range**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Sun_getting_through_fog_in_the_New_Zealand_bush%2C_Bryant_Range.jpg)
+- **Larches in thick mist, Aosta**: Dominicus Johannes Bergsma, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bergtocht_van_Vens_naar_Bettex_in_Valle_d%27Aosta_%28Itali%C3%AB%29._Bomen_langs_bergpad_in_dichte_mist_09.jpg)
 
 ## Coast
 
@@ -73,6 +81,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Tessellated Pavement at sunrise**: JJ Harrison, CC BY-SA 2.5. [Source](https://commons.wikimedia.org/wiki/File:Tessellated_Pavement_Sunrise_Landscape.jpg)
 - **Shorebird at low tide**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Ocean_beach_at_low_tide_against_the_sun.jpg)
 - **Rapanui Rock at sunset**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rapanui_Rock_during_sunset%2C_Sumner%2C_Christchurch%2C_New_Zealand.jpg)
+- **Beach below Cape Fiolent**: Vyacheslav Argenberg, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Beach_of_Cape_Fiolent%2C_Crimea.jpg)
+- **Driftwood near Kaikoura**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Driftwood_on_the_beach_north_of_Kaikoura%2C_Canterbury%2C_New_Zealand_02.jpg)
 
 ## Mountains
 
@@ -85,6 +95,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **The Matterhorn from the Gornergrat railway**: Alps (Wikimedia Commons user), Public domain. [Source](https://commons.wikimedia.org/wiki/File:2007_Matterhorn.jpg)
 - **Gokyo Lake from Gokyo Ri**: Vyacheslav Argenberg, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Gokyo_Ri_summit%2C_Gokyo_Lake%2C_Nepal%2C_Himalayas.jpg)
 - **Path up Ben Arthur, Arrochar Alps**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Ben_Arthur%2C_Arrochar_Alps%2C_Scotland_02.jpg)
+- **Argentière Glacier**: Benh LIEU SONG, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Glacier_Argentiere.jpg)
+- **Sofia Massif, Caucasus**: Vyacheslav Argenberg, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Sofia_Massif_and_Sofia_Glacier%2C_Karachay-Cherkessia%2C_Caucasus_Mountains.jpg)
 
 ## Desert
 
@@ -97,6 +109,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Dune 45 at sunrise**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg)
 - **Upper Antelope Canyon**: Tuxyso, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Upper_Antelope_Canyon_Heart_Formation_2013.jpg)
 - **Desert elephant spraying sand**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg)
+- **Mesquite dunes, Death Valley**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Mesquite_Sand_Dunes_in_Death_Valley.jpg)
+- **Dunes of the Thar Desert**: Clément Bardot, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Dunes%2C_D%C3%A9sert_du_Thar.jpg)
 
 ## Sunsets
 
@@ -109,6 +123,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Juan Griego sunset**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Juan_Griego_Sunset.jpg)
 - **Backlit sunset, Margarita Island**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Backlit_Margarita_Island_Sunset_in_Las_Guevaras%2C_Venezuela_CaptureNX2.jpg)
 - **Giraffe silhouette at sunrise**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:015a_Angolan_giraffe_silhouette_at_sunrise_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg)
+- **Peter Iredale wreck at sunset**: Robert Bradshaw, CC BY 2.5. [Source](https://commons.wikimedia.org/wiki/File:Peter_iredale_sunset_edited1.jpg)
+- **Sunset on Aresquiers beach**: Christian Ferrer, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Sunset_on_the_Aresquiers_beach.jpg)
 
 ## Misty
 
@@ -121,6 +137,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Snowy fog at sunrise, Schwafheim**: Carschten, CC BY-SA 3.0 de. [Source](https://commons.wikimedia.org/wiki/File:Moers%2C_2010-12_CN-I%2C_Nebel_Schwafheim.jpg)
 - **Summit cross above the fog**: Uoaei1, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Blassenstein_Kreuz_mit_Nebel_01.JPG)
 - **Hoarfrost on the hills, Beilstein**: Roman Eisele, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Beilstein_-_Maad_-_Blick_aus_Weinbergen_auf_Weide%2C_Streuobst_und_Wald_mit_Raureif_im_Gegenlicht_%281%29.jpg)
+- **Misty dawn, Dandenong Ranges**: Uzman Naleer, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:A_Misty_Dawn%2C_Dandenong_Ranges.jpg)
+- **Fog over the Apennine hills**: Terragio67, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Nebbia_su_colli_e_monti_-_Foreste_Casentinesi_-_Appennino_Tosco_Emiliano_-_GT_01_-_2024_01_28.jpg)
 
 ## City lights
 
@@ -132,6 +150,7 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Rio and Sugarloaf at sunset**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset%2C_Brazil_3.jpg)
 - **Hong Kong on a typhoon night**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg)
 - **Chicago skyline**: Diego Delso, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Skyline_de_Chicago_desde_el_centro%2C_Illinois%2C_Estados_Unidos%2C_2012-10-20%2C_DD_06.jpg)
+- **Prague at dawn**: Petar Milošević, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Prague_skyline_at_dawn.jpg)
 
 ## Flowers
 
@@ -144,6 +163,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Rose 'Rosengräfin Marie Henriette'**: Agnes Monkelbaan, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rosa_%27Rosengr%C3%A4fin_Marie_Henriette%27_%28actm%29.jpg)
 - **Hollyhock**: George Chernilevsky, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Alcea_rosea_2025_G1.jpg)
 - **Red rose on black**: Laitche, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Red_rose_with_black_background.jpg)
+- **Magenta orchids**: Mister rf, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Orchidaceae_flowers_-_magenta_colour.jpg)
+- **Red poppy**: Agnes Monkelbaan, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bloem_van_een_Papaver_%28klaproos%29._14-05-2021_%28actm.%29_01.jpg)
 
 ## Wildlife
 
@@ -155,6 +176,7 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Red fox in the Tatras**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Red_fox_%28Vulpes_vulpes_crucigera%29_Skalnate_Pleso_2.jpg)
 - **Proboscis monkey**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Proboscis_monkey_%28Nasalis_larvatus%29_female_Labuk_Bay.jpg)
 - **Alpine ibex, Creux du Van**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:002_Wild_Alpine_Ibex_Swiss_Alps_and_Creux_du_Van_Photo_by_Giles_Laurent.jpg)
+- **Bengal tiger**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bengal_tiger_%28Panthera_tigris_tigris%29_female_3.jpg)
 
 ## Food
 
@@ -167,6 +189,9 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Citrus fruits**: Scott Bauer, USDA, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Citrus_fruits.jpg)
 - **Homemade sourdough**: Tomascastelazo, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Home_made_sour_dough_bread.jpg)
 - **Fuyu persimmons**: Frank Schulenburg, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Fuyu_persimmon_fruits%2C_one_cut_open.jpg)
+- **Roasted coffee beans**: MarkSweep, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg)
+- **Mustard variations**: Rainer Zenz, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Senf-Variationen.jpg)
+- **Eggs in a basket**: George Chernilevsky, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Eggs_in_basket_2020_G1.jpg)
 
 ## Interiors
 
@@ -179,6 +204,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **New York Public Library reading room**: Diliff, CC BY 2.5. [Source](https://commons.wikimedia.org/wiki/File:NYC_Public_Library_Research_Room_Jan_2006-1-_3.jpg)
 - **Galeries Lafayette dome at Christmas**: Benh LIEU SONG, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Galerie_Lafayette_Haussmann_Dome.jpg)
 - **House interior, northeast Brazil**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Brazil_Nordest_House_interior.jpg)
+- **Nasir ol Molk Mosque, Shiraz**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Mezquita_de_Nasirolmolk%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_57-59_HDR.jpg)
+- **Saint-François-Xavier, Paris**: Diliff, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Church_of_Saint-Fran%C3%A7ois-Xavier_Interior%2C_Paris%2C_France_-_Diliff.jpg)
 
 ## Vintage prints
 
@@ -191,6 +218,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Emir of Bukhara, 1911**: Sergei Prokudin-Gorskii, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Prokudin-Gorskii-19-v2.png)
 - **Peasant girls in Kirillov, 1909**: Sergei Prokudin-Gorskii, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Russian_peasant_girls_in_front_of_a_traditional_wooden_house_in_Kirillov.jpg)
 - **A Yeoman Warder, c.1900**: Detroit Publishing Co., restored by Adam Cuerden, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Detroit_Publishing_Co._-_A_Yeoman_of_the_Guard_%28N.B._actually_a_Yeoman_Warder%29%2C_full_restoration.jpg)
+- **Grand Canal, Venice, c.1890s**: Photochrom print, c.1890s, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Grand_Canal_photochrom_2c.jpg)
+- **Rio della Botisella, Venice**: Detroit Publishing Co. (Photochrom), Public domain. [Source](https://commons.wikimedia.org/wiki/File:Rio_della_Botisella%2C_Venice%2C_Italy_LOC_4755194326.jpg)
 
 ## Underwater
 
@@ -203,6 +232,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Clown anemonefish**: Nick Hobgood, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg)
 - **Nembrotha nudibranch**: Nick Hobgood, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Nembrotha_kubaryana_%28Nudibranch%29.jpg)
 - **Bluespotted ribbontail ray**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Raya_de_arrecife_%28Taeniura_lymma%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_64.jpg)
+- **Green sea turtle, Moorea**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg)
+- **Turtle and its reflection**: Brocken Inaglory, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Total_internal_reflection_of_Chelonia_mydas.jpg)
 
 ## Night sky
 
@@ -215,6 +246,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Aurora over the Lyngen Alps**: Simo Räsänen (Ximonic), CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Aurora_borealis_above_Storfjorden_and_the_Lyngen_Alps_in_moonlight%2C_2012_March.jpg)
 - **Star trails over Kitt Peak**: DESI Collaboration/DOE/KPNO/NOIRLab/NSF/AURA/L. Tyas, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Kitt_Peak_National_Observatory_Beneath_Star_Trails_%28noirlab2512ae%29.jpg)
 - **Milky Way over Oeschinensee**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:036_Milky_Way_during_Perseids_seen_from_Oeschinensee_with_water_reflections_Photo_by_Giles_Laurent.jpg)
+- **Milky Way over Llyn Ogwen**: John Badham, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Llyn_Ogwen_Milky_Way.jpg)
+- **Milky Way over Elbrus**: oliwok, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg)
 
 ## Tropical
 
@@ -227,6 +260,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Jetty to a Maldives island**: Martin Falbisoner, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Diamonds_Thudufushi_Beach_and_Water_Villas%2C_May_2017_-08.jpg)
 - **Water villas, Maldives**: Martin Falbisoner, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Diamonds_Thudufushi_Beach_and_Water_Villas%2C_May_2017_-03.jpg)
 - **Preveli palm beach, Crete**: Uoaei1, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Preveli_Palm_Beach_Panorama_02.JPG)
+- **Three palms at sunset, Cyprus**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Three_palm_trees_during_the_sunset%2C_Ayia_Marina_Chrysochous%2C_Paphos_District%2C_Cyprus_02.jpg)
+- **Sunset at Kuta Beach, Bali**: Jakub Hałun, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg)
 
 ## Gardens
 
@@ -239,6 +274,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Waterlily House, Kew**: Diliff, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Kew_Gardens_Waterlily_House_-_Sept_2008.jpg)
 - **Palm House, Kew**: Diliff, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Kew_Gardens_Palm_House%2C_London_-_July_2009.jpg)
 - **Keitaku-en Japanese garden**: Laitche, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:A_Japanese_garden_scene_from_a_chickee_in_Keitaku-en.jpg)
+- **Kinkaku-ji reflection**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg)
+- **Bulguksa pond and bridge**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Banya_yeonji_pond_water_reflection_of_bridge_and_trees_under_blue_sky_at_Bulguksa_Gyeongju_South_Korea.jpg)
 
 ## Architecture
 
@@ -251,6 +288,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Golden Temple, Amritsar**: Oleg Yunakov, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Hamandir_Sahib_%28Golden_Temple%29.jpg)
 - **Blue domes of Oia**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg)
 - **Iwan ceiling, Fatima Masumeh Shrine**: Amir Pashaei, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:One_of_the_iwan_ceilings_of_Fatima_Masumeh_Shrine_in_atabki_sahn%2C_Qom%2C_Iran.jpg)
+- **Shah Mosque, Isfahan**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Mezquita_Shah%2C_Isfah%C3%A1n%2C_Ir%C3%A1n%2C_2016-09-20%2C_DD_65-67_HDR.jpg)
+- **Fullerton Hotel staircase**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Symmetric_view_of_the_staircase_at_The_Fullerton_Hotel_Singapore.jpg)
 
 ## Textures
 
@@ -263,6 +302,7 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Rusted metal studs, Nyhavn**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Kopenhagen_%28DK%29%2C_Nyhavn_--_2017_--_1711.jpg)
 - **Grand Prismatic Spring**: Jim Peaco, National Park Service, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Grand_prismatic_spring.jpg)
 - **Salt pans, Fuerteventura**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Antigua_%28Fuerteventura%2C_Spain%29%2C_Museo_de_las_Salinas_del_Carmen%2C_Kristallisierungsbecken_--_2025_--_7216.jpg)
+- **Rust and dirt**: Roger McLassus, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Rust_and_dirt.jpg)
 
 ## Birds
 
@@ -272,6 +312,10 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Rainbow lorikeet, Sydney**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rainbow_lorikeet_%28Trichoglossus_moluccanus_moluccanus%29_Sydney.jpg)
 - **Hyacinth macaws under a pink ipê**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:007_Hyacinth_macaw_couple_under_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
 - **Greater flamingos, Camargue**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:009_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg)
+- **Peacock in full display**: Jebulon, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Paonroue.JPG)
+- **Golden-tailed sapphire hummingbird**: Marcial4, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Colibr%C3%AD_Cola_de_Oro_%28Golden-tailed_Sapphire_Hummingbird%29_Bigger_File.jpg)
+- **Blue-tailed bee-eater, Yala**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Blue-tailed_bee-eater_%28Merops_philippinus%29_Yala.jpg)
+- **Grey-breasted mountain toucan**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Grey-breasted_mountain_toucan_%28Andigena_hypoglauca%29_Caldas.jpg)
 
 ## Close-ups
 
@@ -281,6 +325,10 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Peacock feather**: MichaelMaggs, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Feather_of_male_Pavo_cristatus_%28Indian_peafowl%29.jpg)
 - **Snowflake up close**: Alexey Kljatov, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Snowflake_macro_photography_1.jpg)
 - **Spider web with fog droplets**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Araneus_trifolium_and_its_web_with_fog_droplets_at_Twin_Peaks_in_San_Francisco.jpg)
+- **Yellow-winged darter**: André Karwath, CC BY-SA 2.5. [Source](https://commons.wikimedia.org/wiki/File:Sympetrum_flaveolum_-_side_%28aka%29.jpg)
+- **Dew on grass**: Luc Viatour, CC BY-SA 2.5. [Source](https://commons.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)
+- **Damselfly up close**: Mathias Krumbholz, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Damselfly_03_%28MK%29.jpg)
+- **Goose feather with dew**: Dominicus Johannes Bergsma, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Ganzenveer_bedekt_met_dauw._%28d.j.b.%29_02.jpg)
 
 ## Skies
 
@@ -290,6 +338,10 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Tsarap River under rain clouds**: Timothy A. Gonsalves, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rain_Clouds_Tsarap_Phuktal_Zanskar_Jun24_R16_07793.jpg)
 - **Sun rays over the Waimakariri valley**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Stormy_sunset_over_Waimakariri_River_basin%2C_New_Zealand.jpg)
 - **Cirrus clouds at morning**: ADARSHluck, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Cirrus_uncinus_clouds_in_the_morning_sky.jpg)
+- **Shelf cloud over Estonia**: Kristian Pikner, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Riiulpilv_-_Shelf_cloud_%282%29_copy.jpg)
+- **Sunrise rays over Noisiel**: Benh LIEU SONG, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Crepuscular_rays_over_parc_de_Noisiel_at_sunrise%2C_26_May_2019.jpg)
+- **Rays across the evening sky**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Back-scattering_crepuscular_rays.jpg)
+- **Sun rays over Tikveš**: Kiril Simeonovski, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%BD%D1%87%D0%B5%D0%B2%D0%B8_%D0%B7%D1%80%D0%B0%D1%86%D0%B8_%D0%BD%D0%B0%D0%B4_%D0%A2%D0%B8%D0%BA%D0%B2%D0%B5%D1%88_%28cropped%29.jpg)
 
 ## Lakes & rivers
 
@@ -299,6 +351,10 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Lake Tekapo**: Krzysztof Golik, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Lake_Tekapo_01.jpg)
 - **Tufa towers, Mono Lake**: Vezoy, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Mono_Lake_Tufa.JPG)
 - **Cuckmere River meanders**: Arild Vågen, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:River_Cuckmere_April_2018_01.jpg)
+- **Vang Vieng reflections**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Water_reflection_of_the_mountains_of_Vang_Vieng_with_crepuscular_rays.jpg)
+- **Marshfield Pond in October**: King of Hearts, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Marshfield_Pond_October_2021_003.jpg)
+- **Tip of the fjord**: Marius Valen, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Tip_of_the_fjord-Abstract.jpg)
+- **Gemoor pond reflection, Lahaul**: Timothy A. Gonsalves, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Reflection_Gemoor_Khar_Pond_Lahaul_Jun24_A7CR_01248.jpg)
 
 ## Markets
 
@@ -308,6 +364,9 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Fresh fish, Ensenada market**: Tomascastelazo, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Ensenada_fish_market_2.jpg)
 - **Flea market still life**: AngMoKio, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Still_life_fleamarket_amk.jpg)
 - **Fruit stall, São Paulo Municipal Market**: Wilfredor, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Municipal_Market_of_S%C3%A3o_Paulo_city.jpg)
+- **Indonesian spices**: Galeri ega, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bumbu_dan_Rempah_-_rempah.jpg)
+- **Qom bazaar ceiling**: Amir Pashaei, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Roof_of_the_qom_grand_bazaar%2C_qom%2C_iran.jpg)
+- **Sausages at a butcher's stall**: Wilfredor, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Embutidos_en_una_carniceria_del_Mercado_Municipal_de_Sao_Paulo.jpg)
 
 ## Ice & glaciers
 
@@ -317,3 +376,67 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Fjallsárlón glacier lagoon**: Jakub Hałun, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Fjalls%C3%A1rl%C3%B3n_glacier_lake%2C_Iceland%2C_20240719_1720_2774.jpg)
 - **Iceberg under the stars, North Star Bay**: Jeremy Harbeck, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Iceberg_in_North_Star_Bay%2C_Greenland.jpg)
 - **Frozen soap bubble**: Aaron Burden, CC0. [Source](https://commons.wikimedia.org/wiki/File:Frozen_soap_bubble_behind_fir_twigs_%28Unsplash_BojuZpqw4zM%29.jpg)
+- **Blue iceberg, Argentina**: IlyaHaykinson, CC BY 2.0. [Source](https://commons.wikimedia.org/wiki/File:Glacial_iceberg_in_Argentina.jpg)
+- **Iceberg arch, Cape York**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Iceberg_with_hole_around_Cape_York%2C_Greenland_edit.jpg)
+- **Matanuska Glacier mouth**: Sbork, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Matanuska_Glacier_mouth.jpg)
+- **Jakobshavn ice from the air**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:024_Aerial_view_of_Jakobshavn_Glacier_at_Disko_Bay_%28Greenland%29_Photo_by_Giles_Laurent.jpg)
+
+## Waterfalls
+
+- **Russell Falls, Tasmania**: JJ Harrison, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Russell_Falls_Mt_Field_National_Park.jpg)
+- **Mealt Falls and Kilt Rock**: Colin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Mealt_Waterfall_with_Kilt_Rock%2C_Isle_of_Skye.jpg)
+- **Chamarel Falls**: Martin Falbisoner, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Chamarel_Falls_Mauritius_2.JPG)
+- **Montmorency Falls**: Wilfredor, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Montmorency_waterfall%2C_Qu%C3%A9bec%2C_Qu%C3%A9bec.jpg)
+- **Tad Hang falls at sunset**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Tad_Hang_waterfalls_at_sunset%2C_Tad_Lo_village%2C_Bolaven_Plateau%2C_Laos.jpg)
+- **Russian Gulch waterfall**: Frank Schulenburg, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Waterfall_in_Russian_Gulch_State_Park.jpg)
+- **Phu Sang Waterfall**: Khunkay, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Phu_Sang_Waterfall_01.jpg)
+
+## Countryside
+
+- **Rapeseed field**: Daniel Schwen, CC BY-SA 2.5. [Source](https://commons.wikimedia.org/wiki/File:Rapsfeld_2007.jpg)
+- **Markgräflerland from the air**: Taxiarchos228, CC BY 3.0. [Source](https://commons.wikimedia.org/wiki/File:Aerial_View_-_Landschaft_Markgr%C3%A4flerland1.jpg)
+- **Fields of Cariñena**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Campos_de_Cari%C3%B1ena%2C_Espa%C3%B1a%2C_2015-01-08%2C_DD_32.JPG)
+- **Stone hut in the vineyards**: Christian Ferrer, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Mazet_in_vineyards%2C_M%C3%A8ze_cf02.jpg)
+- **Vineyards in October**: Christian Ferrer, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg)
+- **Oak in a rapeseed field**: ZarlokX, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Ch%C3%AAne%2C_colza%2C_Jura_%28horizontal%29.jpg)
+- **Old windmill, Salasc**: Christian Ferrer, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Former_windmill%2C_Salasc_01.jpg)
+
+## Tiles & mosaics
+
+- **Azulejo tiles, Porto**: Krzysztof Golik, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Azulejo_facade_of_the_Capela_das_Almas_in_Porto_%284%29.jpg)
+- **Galla Placidia ceiling**: Petar Milošević, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Mausoleum_of_Galla_Placidia_ceiling_mosaics.jpg)
+- **Baptistry of Neon dome**: Petar Milošević, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Baptistry_of_Neon_ceiling_mosaic_%28Ravenna%29.jpg)
+- **San Vitale apse**: Petar Milošević, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Apse_mosaic_-_Basilica_of_San_Vitale_%28Ravenna%29.jpg)
+- **Neptune and Amphitrite, Herculaneum**: Jebulon, CC0. [Source](https://commons.wikimedia.org/wiki/File:Neptune_Amphitrite_mosaic_Herculaneum.jpg)
+- **Azulejos in Lisbon**: Alvesgaspar, CC BY 2.5. [Source](https://commons.wikimedia.org/wiki/File:Azulejos_Parque_Eduardo_VII-2.jpg)
+- **Lotfollah Mosque dome**: Phillip Maiwald, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg)
+
+## Minerals & gems
+
+- **Fluorite crystals**: Giovanni Dall'Orto, CC BY-SA 2.5 it. [Source](https://commons.wikimedia.org/wiki/File:9104_-_Milano_-_Museo_storia_naturale_-_Fluorite_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg)
+- **Creedite crystals**: JJ Harrison, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Creedite_3.jpg)
+- **Ant in amber**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:An_Ant_in_Colombian_amber.jpg)
+- **Andradite garnet**: Didier Descouens, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Andradite-Mali.jpg)
+- **Wulfenite from Mexico**: Didier Descouens, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Wulfenite_mexique.jpg)
+- **Grape agate**: JJ Harrison, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Botryoidal_Purple_Grape_Agate_Chalcedony_from_Indonesia.jpg)
+- **Pyrite cubes**: Uoaei1, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Pyrit_01.jpg)
+
+## Fungi & moss
+
+- **Fly agaric**: Tony Wills, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Fly_Agaric_mushroom_04.jpg)
+- **Honey fungus**: Stu's Images, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Armillaria_mellea%2C_Honey_Fungus%2C_UK_1.jpg)
+- **Pholiota on a log**: JJ Harrison, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Pholiota_sp._-_Upper_Florentine.jpg)
+- **Basket of wild mushrooms**: George Chernilevsky, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Edible_fungi_in_basket_2012_G1.jpg)
+- **Candlesnuff fungus**: Norbert Nagel, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Geweihf%C3%B6rmige_Holzkeule_-_Staghorn_fungus_-_Xylaria_hypoxylon_-_01.jpg)
+- **Parasol mushroom**: George Chernilevsky, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Macrolepiota_procera_2013_G1.jpg)
+- **Two little mushrooms**: Dominicus Johannes Bergsma, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Twee_tere_paddenstoelen._06-11-2024._%28d.j.b%29.jpg)
+
+## Volcanic
+
+- **Stromboli at night**: Wolfgang Beyer, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Stromboli_Eruption.jpg)
+- **Pāhoehoe lava flow**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:P%C4%81hoehoe_Lava_flow.JPG)
+- **Tavurvur ash plume**: Taro Taylor, CC BY 2.0. [Source](https://commons.wikimedia.org/wiki/File:Tavurvur_volcano_edit.jpg)
+- **Fimmvörðuháls at dawn**: Boaworm, CC BY 3.0. [Source](https://commons.wikimedia.org/wiki/File:Fimmvorduhals_2010_03_27_dawn.jpg)
+- **Rainbow over volcanic cones**: Ted.ns, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B0%D0%B4%D1%83%D0%B3%D0%B0_%D0%BD%D0%B0%D0%B4_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%BC%D0%B8_%D0%BA%D0%BE%D0%BD%D1%83%D1%81%D0%B0%D0%BC%D0%B8.jpg)
+- **Litli-Hrútur eruption**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:001_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg)
+- **Taal Volcano ash column**: Michael Angelo Luna, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Taal_Volcano_eruption_on_January_12%2C_2020.jpg)

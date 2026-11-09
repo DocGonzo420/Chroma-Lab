@@ -4,7 +4,8 @@ A color palette reference you can use on your phone. Browse real photos with the
 
 ## What it does
 
-- **Explore:** 232 real photos in 28 searchable themes, each with a 6-color palette. Search by place, mood, color word or HEX code.
+- **Explore:** 337 real photos in 34 searchable themes, each with a 6-color palette. Search by place, color word (like sage, rust or teal) or HEX code.
+- **Moods:** search by 31 moods, like cozy, calm, moody, dreamy, earthy or neon, plus synonyms such as snug or serene. Tap a mood chip under the search box, or mix words like "cozy autumn". Each photo shows its top moods.
 - **Studio:** load your own photo and pull 5 to 8 colors from it.
 - **Codes:** HEX, RGB, HSL and CMYK for every color, with tap to copy.
 - **Library:** save palettes and come back to them.
@@ -30,7 +31,7 @@ The same app is also published as a Claude artifact. There it saves palettes to 
 2. Add its row to `data/photos.tsv`.
 3. Run `python3 tools/add_photos.py`.
 
-The script works out the new palettes and writes the library back into `index.html`. A new theme also needs an entry in `THEMES` in `index.html`.
+The script works out the new palettes and writes the library back into `index.html`. A new theme also needs an entry in `THEMES` in `index.html`. Moods are worked out in the browser from each palette's lightness, saturation, warmth and hues, so new photos get them automatically. The mood list is `MOODS` in `index.html`.
 
 ## Photo credits
 
