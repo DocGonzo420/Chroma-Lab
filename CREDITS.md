@@ -1,0 +1,319 @@
+# Photo credits
+
+Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Each one keeps its own license, shown below and in the app. The GPL license in this repo covers the code only, not the photos.
+
+## Autumn
+
+- **Park in October**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:M%C3%BCnster%2C_Park_Sentmaring_--_2015_--_9923.jpg)
+- **Lake Willoughby foliage**: King of Hearts, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Lake_Willoughby_October_2021_003.jpg)
+- **Red cherry leaves**: W.carter, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Red_cherry_leaves_on_branches_in_Tuntorp.jpg)
+- **Squirrel in fallen leaves**: Julian Herzog, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Grey_Squirrel_Sciurus_Carolinensis_Autumn_Stowe_Gardens_2025_01.jpg)
+- **Carpathian hills in autumn**: Rbrechko, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:21-224-5054_NNP_Synevyr_RB_18.jpg)
+- **Valley path in November**: Roman Eisele, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Beilstein_-_Maad_-_Schmidbachtal_mit_altem_Feldweg_am_Nonnenwald_im_November.jpg)
+- **Québec house in autumn**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Autumnal_Retreat_in_Old_Quebec-_A_Canvas_of_Fading_Reds_and_Vibrant_Oranges.jpg)
+- **Seehornsee in late autumn**: Jörg Braukmann, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Seehornsee_im_Herbst.jpg)
+- **Schwetzingen palace garden in autumn**: Roman Eisele, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Schwetzingen_-_Schlossgarten_-_Gro%C3%9Fer_Weiher_-_Westende_mit_Br%C3%BCcke_im_Herbst_2.jpg)
+
+## Winter
+
+- **Frozen bog at dawn**: Abrget47j, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Viru_Bog_at_winter.jpg)
+- **Peyto Lake in winter**: Jakub Fryš, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Peyto_Lake_in_winter.jpg)
+- **Tatra peaks in snow**: Radek Kucharski, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Winter_in_Tatry_Mountains_-_Poland.jpg)
+- **Frosted birch**: A.Savin, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Kolomenskoe_in_white_-_Dec12_-_03_snow.jpg)
+- **Hoar frost on trees**: W.carter, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Hoar_frost_on_trees_along_Myrstigen_2.jpg)
+- **Snowy forest in Carinthia**: Johann Jaritz, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Techelsberg_Sankt_Martin_Winterwald_31012015_750.jpg)
+- **Frosted oaks in fog, Langå**: Malene Thyssen, CC BY 2.5. [Source](https://commons.wikimedia.org/wiki/File:Langaa_egeskov_rimfrost.jpg)
+- **Frosty morning, De Alde Feanen**: Dominicus Johannes Bergsma, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Winter_in_%27It_Wikelsl%C3%A2n._Locatie%2C_De_Alde_Feanen_in_Friesland_01.jpg)
+- **Sun through a frosted beech forest, Mátra**: Susulyka, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Beech_forest_M%C3%A1tra_in_winter.jpg)
+
+## Spring
+
+- **Lesser celandine**: Andreas Eichler, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:2014.03.09.-23-Kaefertaler_Wald-Mannheim-Fruehlings-Scharbockskraut.jpg)
+- **Cherry buds on blue sky**: W.carter, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Cherry_blossom_buds_1.jpg)
+- **Cherry blossoms at the Sterntor**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bonn%2C_Sterntor_--_2020_--_6505.jpg)
+- **Pink cherry blossoms**: W.carter, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Three_pink_cherry_blossoms_in_Tuntorp.jpg)
+- **Eiffel Tower in spring**: Jorge Royan, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg)
+- **Crocuses in a garden**: Dominicus Johannes Bergsma, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Krokussen_%28Crocus%29%2C_Locatie%2C_Tuinreservaat_Jonkervallei.jpg)
+- **Mirabelle plum blossom**: Trachemys, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Blossom_of_Mirabelle_plum.jpg)
+- **Apple blossoms**: George Chernilevsky, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Apple-tree_blossoms_2017_G3.jpg)
+- **Winter aconites in melting snow**: Dominicus Johannes Bergsma, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bloemknoppen_van_Winterakonieten_%28Eranthis_hyemalis%29_in_smeltende_sneeuw_16-02-2021._%28d.j.b%29.jpg)
+
+## Summer
+
+- **Cornflowers and wheat**: Luc Viatour, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Field_Hamois_Belgium_Luc_Viatour.jpg)
+- **Straw bales**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:D%C3%BClmen%2C_Dernekamp%2C_Strohballen_--_2015_--_7838.jpg)
+- **Flower crown on yellow**: Autumn Goodman, CC0. [Source](https://commons.wikimedia.org/wiki/File:Mother_Nature%2C_Summer_%28Unsplash%29.jpg)
+- **Sunflowers**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:D%C3%BClmen%2C_Weddern%2C_Sonnenblumen_--_2026_--_2005.jpg)
+- **Ripe grain field**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:D%C3%BClmen%2C_Kirchspiel%2C_Dernekamp%2C_Getreidefeld_--_2024_--_0003.jpg)
+- **Poppies and chamomile by barley**: JackyM59, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Camomille_sauvage_%28Matricaria_chamomilla%29%2C_coquelicots_%28Papaver_rhoeas%29_au_bord_d%27un_champ_d%27orge_%28Hordeum_vulgare%29.jpg)
+- **Landmannalaugar in summer**: Chmee2/Valtameri, CC BY 3.0. [Source](https://commons.wikimedia.org/wiki/File:Landmannalaugar_in_summer_2009_%2813%29.jpg)
+- **Misty summer dawn on the Desna**: George Chernilevsky, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Desna_river_Vinn_meadow_2019_G01.jpg)
+- **Bumblebee on lavender**: Martin Falbisoner, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bumblebee_on_Lavender_Blossom.JPG)
+
+## Forest
+
+- **Birches in late snow**: George Chernilevsky, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Birchwood_Slavnoe_2012_G1.jpg)
+- **Beech and ferns**: W.carter, CC0. [Source](https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg)
+- **Sunbeams through November fog**: Kuhnmi, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Baumsilhouetten_am_Uetliberg_mit_Novembernebel_und_Sonnenstrahlen.jpg)
+- **Spruce forest light**: Trougnouf (Benoit Brummer), CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bois_Raquet%2C_in_the_High_Fens_%E2%80%93_Eifel_Nature_Park_%28DSCF6655%29.jpg)
+- **Laurel forest in Madeira**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Fanal_%28Madeira%2C_Portugal%29%2C_Lorbeerwald_--_2025_--_1532.jpg)
+- **Forest steps at dusk**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg)
+- **Spring green beech road, Wildacker**: Stephan van Helden, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Im_Naturwaldreservat_Wildacker_15.jpg)
+- **Quiver trees at golden hour, Namibia**: Hans Stieglitz, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:K%C3%B6cherbaumwald-01.jpg)
+- **Bush canopy at sunset, Lake Kaniere**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bush_canopy_during_sunset_in_Lake_Kaniere_Scenic_Reserve%2C_West_Coast%2C_New_Zealand.jpg)
+
+## Coast
+
+- **Stormy Fossil Bay**: JJ Harrison, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Fossil_Bay_Seascape_2.jpg)
+- **Headland and boats**: Jebulon, CC0. [Source](https://commons.wikimedia.org/wiki/File:Promontoire_rocheux_Calahonda.jpg)
+- **Twelve Apostles**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Princetown_%28AU%29%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0969.jpg)
+- **Gaztelugatxe islet**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Gaztelugache%2C_Bermeo%2C_Pa%C3%ADs_Vasco%2C_Espa%C3%B1a%2C_2019-08-13%2C_DD_14.jpg)
+- **Mystic Beach**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Mystic_Beach%2C_Vancouver_Island%2C_Canada_10.jpg)
+- **Waihi Beach**: Krzysztof Golik, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Waihi_Beach_Reserve_31.jpg)
+- **Tessellated Pavement at sunrise**: JJ Harrison, CC BY-SA 2.5. [Source](https://commons.wikimedia.org/wiki/File:Tessellated_Pavement_Sunrise_Landscape.jpg)
+- **Shorebird at low tide**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Ocean_beach_at_low_tide_against_the_sun.jpg)
+- **Rapanui Rock at sunset**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rapanui_Rock_during_sunset%2C_Sumner%2C_Christchurch%2C_New_Zealand.jpg)
+
+## Mountains
+
+- **Glacier lagoon at dusk**: Kenny Muir, CC BY 2.0. [Source](https://commons.wikimedia.org/wiki/File:Jokulsarlon_lake%2C_Iceland.jpg)
+- **Lake Kinney**: Florian Fuchs, CC BY 3.0. [Source](https://commons.wikimedia.org/wiki/File:Lake_Kinney_mit_Mount_Whitehorn.jpg)
+- **Mount Shasta**: Radomianin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg)
+- **Caucasus lakes**: Vyacheslav Argenberg, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Zagedan_Lakes%2C_Mountain_cirque%2C_Caucasus_Mountains.jpg)
+- **Alpine stream near Panixersee**: Dominicus Johannes Bergsma, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Panixersee_%28Lag_da_Pigniu%29_boven_Andiast._26-09-2025._%28d.j.b.%29_09.jpg)
+- **Cliff Lake, Lassen**: Frank Schulenburg, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Cliff_Lake%2C_Lassen_Volcanic_National_Park-8179.jpg)
+- **The Matterhorn from the Gornergrat railway**: Alps (Wikimedia Commons user), Public domain. [Source](https://commons.wikimedia.org/wiki/File:2007_Matterhorn.jpg)
+- **Gokyo Lake from Gokyo Ri**: Vyacheslav Argenberg, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Gokyo_Ri_summit%2C_Gokyo_Lake%2C_Nepal%2C_Himalayas.jpg)
+- **Path up Ben Arthur, Arrochar Alps**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Ben_Arthur%2C_Arrochar_Alps%2C_Scotland_02.jpg)
+
+## Desert
+
+- **Tadrart rocks and sand**: Pir6mon, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Tadrart01.JPG)
+- **Camel caravan**: Sergey Pesterev, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Caravan_in_the_desert.jpg)
+- **Stars over the Sahara**: Sergey Pesterev, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Moonlight_in_the_Sahara.jpg)
+- **Jeeps on the dunes**: Jjunoo, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Passeio_de_Buggy_no_Parque_das_Dunas_de_Genipabu%2C_RN_-_2.jpg)
+- **Garden of Eden, Arches**: Christian Mehlführer, CC BY 2.5. [Source](https://commons.wikimedia.org/wiki/File:Garden_of_Eden_ArchesNP_MC.jpg)
+- **Dry hills of Fuerteventura**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Pajara_%28Fuerteventura%2C_Spain%29%2C_Mirador_Astron%C3%B3mico_de_Sicasumbre%2C_Ausblick_--_2025_--_7140.jpg)
+- **Dune 45 at sunrise**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg)
+- **Upper Antelope Canyon**: Tuxyso, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Upper_Antelope_Canyon_Heart_Formation_2013.jpg)
+- **Desert elephant spraying sand**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg)
+
+## Sunsets
+
+- **Sun rays over the Pacific**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Sunset_clouds_and_crepuscular_rays_over_pacific_edit.jpg)
+- **Storm cloud at sunset**: Thennicke, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Cumulonimbus_sunset_panorama%2C_Albury_NSW_Australia.jpg)
+- **Paddy field reflection**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Colorful_sky_with_orange_clouds_reflecting_in_the_water_of_a_paddy_field%2C_at_sunset%2C_Vang_Vieng%2C_Laos.jpg)
+- **Dusk on the Mekong**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_sunset_with_pink_clouds_in_Don_Det_Laos.jpg)
+- **Sunset over Sète**: Christian Ferrer, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:S%C3%A8te%27s_sunset.jpg)
+- **Sunset over a Swedish bay**: W.carter, CC0. [Source](https://commons.wikimedia.org/wiki/File:Sunset_over_Trommekilen_from_Norrkila_6.jpg)
+- **Juan Griego sunset**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Juan_Griego_Sunset.jpg)
+- **Backlit sunset, Margarita Island**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Backlit_Margarita_Island_Sunset_in_Las_Guevaras%2C_Venezuela_CaptureNX2.jpg)
+- **Giraffe silhouette at sunrise**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:015a_Angolan_giraffe_silhouette_at_sunrise_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg)
+
+## Misty
+
+- **Frosty road in fog**: Pudelek, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Morning_fog_in_Upper_Silesia.jpg)
+- **Palms in a pink haze**: Abdul Momin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:A_foggy_winter_morning.jpg)
+- **Mist over a plowed field**: W.carter, CC0. [Source](https://commons.wikimedia.org/wiki/File:Morning_mist_lifting_from_plowed_field_3.jpg)
+- **Karst peaks and clouds**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Green_karst_peaks_seen_from_the_top_of_Mount_Nam_Xay_a_sunny_morning_with_fog_Vang_Vieng_Laos.jpg)
+- **Castle in morning fog**: Rolf Kranz, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Burg_Thurant_im_Morgennebel.jpg)
+- **Morning fog over a bog**: Abrget47j, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Hommikune_udu_Kakerdaja_rabas.jpg)
+- **Snowy fog at sunrise, Schwafheim**: Carschten, CC BY-SA 3.0 de. [Source](https://commons.wikimedia.org/wiki/File:Moers%2C_2010-12_CN-I%2C_Nebel_Schwafheim.jpg)
+- **Summit cross above the fog**: Uoaei1, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Blassenstein_Kreuz_mit_Nebel_01.JPG)
+- **Hoarfrost on the hills, Beilstein**: Roman Eisele, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Beilstein_-_Maad_-_Blick_aus_Weinbergen_auf_Weide%2C_Streuobst_und_Wald_mit_Raureif_im_Gegenlicht_%281%29.jpg)
+
+## City lights
+
+- **Midtown at night**: Paulo Barcellos Jr., CC BY-SA 2.0. [Source](https://commons.wikimedia.org/wiki/File:New_York_City_at_night_HDR.jpg)
+- **Québec City at dusk**: Wilfredor, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Qu%C3%A9bec_city_at_night%2C_view_from_L%C3%A9vis_city.jpg)
+- **Porto Alegre at night**: Felipe Valduga, CC BY 2.0. [Source](https://commons.wikimedia.org/wiki/File:Porto_Alegre_-_Brazil_Landscape-Night.jpg)
+- **Lower Manhattan at blue hour**: King of Hearts, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_September_2020_panorama.jpg)
+- **Kimono Forest at night**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Kimono_Forest_at_night%2C_Arashiyama_Station%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg)
+- **Rio and Sugarloaf at sunset**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset%2C_Brazil_3.jpg)
+- **Hong Kong on a typhoon night**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg)
+- **Chicago skyline**: Diego Delso, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Skyline_de_Chicago_desde_el_centro%2C_Illinois%2C_Estados_Unidos%2C_2012-10-20%2C_DD_06.jpg)
+
+## Flowers
+
+- **Passion flower**: Petar Milošević, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Passiflora_caerulea_%28makro_close-up%29.jpg)
+- **Peach nasturtium with dew**: Ermell, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Close-up_of_Tropaeolum_majus_flowers_droplets_-20190830-RM-081005.jpg)
+- **Red chrysanthemum**: Ermell, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg)
+- **Dahlia bud on green**: Dominicus Johannes Bergsma, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bloemknop_van_een_Dahlia_%27Moonfire%27._20-08-2023._%28d.j.b%29.jpg)
+- **Red and white tulip**: Acabashi, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg)
+- **Dance Line tulips**: Kritzolina, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Tulpe_%27Dance_Line%27_im_botanischen_Garten_in_M%C3%BCnchen_04.jpg)
+- **Rose 'Rosengräfin Marie Henriette'**: Agnes Monkelbaan, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rosa_%27Rosengr%C3%A4fin_Marie_Henriette%27_%28actm%29.jpg)
+- **Hollyhock**: George Chernilevsky, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Alcea_rosea_2025_G1.jpg)
+- **Red rose on black**: Laitche, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Red_rose_with_black_background.jpg)
+
+## Wildlife
+
+- **Bee-eaters catching a bee**: Pierre Dalous, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Merops_apiaster_04.jpg)
+- **Three bee-eaters**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:European_bee-eaters_%28Merops_apiaster%29_with_dragonflies.jpg)
+- **Green bee-eater**: Tisha Mukherjee, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Asian_green_bee-eater_in_Baruipur_January_2025_by_Tisha_Mukherjee_01.jpg)
+- **Geese in morning fog**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Canada_Geese_and_morning_fog.jpg)
+- **Northern pintail on a lake**: Prasan Shrestha, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Northern_pintail_at_Taudaha_Kathmandu.jpg)
+- **Red fox in the Tatras**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Red_fox_%28Vulpes_vulpes_crucigera%29_Skalnate_Pleso_2.jpg)
+- **Proboscis monkey**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Proboscis_monkey_%28Nasalis_larvatus%29_female_Labuk_Bay.jpg)
+- **Alpine ibex, Creux du Van**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:002_Wild_Alpine_Ibex_Swiss_Alps_and_Creux_du_Van_Photo_by_Giles_Laurent.jpg)
+
+## Food
+
+- **Cardamom buns**: W.carter, CC0. [Source](https://commons.wikimedia.org/wiki/File:Cardamom_buns.jpg)
+- **Apple cake on gingham**: W.carter, CC0. [Source](https://commons.wikimedia.org/wiki/File:Apple_cake_with_vanilla_ice_cream_2.jpg)
+- **Beetroots in a basket**: W.carter, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Beetroots_in_a_basket.jpg)
+- **Yellow zucchini on green**: Diego Delso, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Calabac%C3%ADn%2C_M%C3%BAnich%2C_Alemania%2C_2013-03-30%2C_DD_01.JPG)
+- **Spices at a street market**: Wilfredor, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Spices_of_Sa%C3%BAde_flea_market%2C_S%C3%A3o_Paulo%2C_Brazil.jpg)
+- **Strawberries in a crystal bowl**: W.carter, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Still_life_with_strawberries_in_a_crystal_bowl.jpg)
+- **Citrus fruits**: Scott Bauer, USDA, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Citrus_fruits.jpg)
+- **Homemade sourdough**: Tomascastelazo, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Home_made_sour_dough_bread.jpg)
+- **Fuyu persimmons**: Frank Schulenburg, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Fuyu_persimmon_fruits%2C_one_cut_open.jpg)
+
+## Interiors
+
+- **Musée Guimet library dome**: Athoune, CC BY 3.0. [Source](https://commons.wikimedia.org/wiki/File:Bibliotheque-musee-Guimet.jpg)
+- **Baroque ceiling fresco**: Uoaei1, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Stift_Altenburg_Bibliothek_Fresko_Nordkuppel_01.JPG)
+- **Teak library room**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Interior_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg)
+- **El Escorial library**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Real_Monasterio_de_San_Lorenzo_de_El_Escorial%2C_Madrid%2C_Espa%C3%B1a%2C_2025-12-30%2C_DD_16-18_HDR.jpg)
+- **Spiral staircase, City Hall London**: Colin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:City_Hall%2C_London%2C_Spiral_Staircase_-_1.jpg)
+- **Stairs in a town hall**: Villy Fink Isaksen, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Trappe_i_r%C3%A5dhushallen.jpg)
+- **New York Public Library reading room**: Diliff, CC BY 2.5. [Source](https://commons.wikimedia.org/wiki/File:NYC_Public_Library_Research_Room_Jan_2006-1-_3.jpg)
+- **Galeries Lafayette dome at Christmas**: Benh LIEU SONG, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Galerie_Lafayette_Haussmann_Dome.jpg)
+- **House interior, northeast Brazil**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Brazil_Nordest_House_interior.jpg)
+
+## Vintage prints
+
+- **Neuschwanstein, c.1900**: Detroit Publishing Co. (Photochrom), Public domain. [Source](https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_LOC_print_rotated.jpg)
+- **Mulberry Street, c.1900**: Detroit Publishing Co., Public domain. [Source](https://commons.wikimedia.org/wiki/File:Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg)
+- **Stockholm exhibition, 1897**: Detroit Publishing Co. (Photochrom), Public domain. [Source](https://commons.wikimedia.org/wiki/File:Stockholm_photochrom2.jpg)
+- **Royal Avenue, Belfast**: Detroit Publishing Co. (Photochrom), Public domain. [Source](https://commons.wikimedia.org/wiki/File:Royal_Avenue_Belfast2.jpg)
+- **Dresden by the Elbe, 1890s**: Detroit Publishing Co., Public domain. [Source](https://commons.wikimedia.org/wiki/File:Dresden_photochrom2.jpg)
+- **Shakespeare Memorial Theatre, c. 1900**: Detroit Publishing Co., restored by Adam Cuerden, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Detroit_Publishing_Company_-_Shakespeare%27s_Memorial_Theatre%2C_Stratford-on-Avon%2C_England.jpg)
+- **Emir of Bukhara, 1911**: Sergei Prokudin-Gorskii, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Prokudin-Gorskii-19-v2.png)
+- **Peasant girls in Kirillov, 1909**: Sergei Prokudin-Gorskii, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Russian_peasant_girls_in_front_of_a_traditional_wooden_house_in_Kirillov.jpg)
+- **A Yeoman Warder, c.1900**: Detroit Publishing Co., restored by Adam Cuerden, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Detroit_Publishing_Co._-_A_Yeoman_of_the_Guard_%28N.B._actually_a_Yeoman_Warder%29%2C_full_restoration.jpg)
+
+## Underwater
+
+- **Royal angelfish on the reef**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_real_%28Pygoplites_diacanthus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-26%2C_DD_155.jpg)
+- **Galaxy coral**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Coral_%28Galaxea_fascicularis%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-18%2C_DD_128.jpg)
+- **Wire coral in blue water**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Coral_alambre_%28Cirrhipathes_spiralis%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_71.jpg)
+- **Orange-lined triggerfish**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg)
+- **Picasso triggerfish**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Pez_ballesta_picasso_ar%C3%A1bigo_%28Rhinecanthus_assasi%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-18%2C_DD_22.jpg)
+- **Peach soft coral**: Nick Hobgood, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Soft_coral_peach_komodo.jpg)
+- **Clown anemonefish**: Nick Hobgood, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg)
+- **Nembrotha nudibranch**: Nick Hobgood, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Nembrotha_kubaryana_%28Nudibranch%29.jpg)
+- **Bluespotted ribbontail ray**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Raya_de_arrecife_%28Taeniura_lymma%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_64.jpg)
+
+## Night sky
+
+- **Milky Way over a bog**: Martin Mark, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:In_the_photo_there_is_one_Perseid%2C_Milky_Way_and_Andromega_galaxy_and_light_pollution_on_the_horizon_-_Luhasoo_bog_in_Estonia.jpg)
+- **Laser toward the Milky Way**: ESO/Yuri Beletsky, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg)
+- **Aurora over Abisko**: Pavel.shyshkouski, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Aurora_in_Abisko_near_Tornetr%C3%A4sk.jpg)
+- **Aurora and shooting stars**: Stephan Sprinz, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Aurora_and_perseids.jpg)
+- **Southern lights over an igloo**: Ross Burgener, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Aurora_australis_dancing_over_an_LED_illuminated_igloo.jpg)
+- **Northern lights over Estonia**: Kristian Pikner, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Virmalised_15.09.2017_-_Aurora_Borealis_15.09.2017_copy.jpg)
+- **Aurora over the Lyngen Alps**: Simo Räsänen (Ximonic), CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Aurora_borealis_above_Storfjorden_and_the_Lyngen_Alps_in_moonlight%2C_2012_March.jpg)
+- **Star trails over Kitt Peak**: DESI Collaboration/DOE/KPNO/NOIRLab/NSF/AURA/L. Tyas, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Kitt_Peak_National_Observatory_Beneath_Star_Trails_%28noirlab2512ae%29.jpg)
+- **Milky Way over Oeschinensee**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:036_Milky_Way_during_Perseids_seen_from_Oeschinensee_with_water_reflections_Photo_by_Giles_Laurent.jpg)
+
+## Tropical
+
+- **Mangrove tree on the beach**: Vyacheslav Argenberg, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Havelock_Island%2C_Mangrove_tree_on_the_beach%2C_Andaman_Islands.jpg)
+- **Sandy lagoon**: Vyacheslav Argenberg, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Havelock_Island%2C_Sandy_lagoon%2C_Andaman_Islands.jpg)
+- **Turtle on a black sand beach**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Green_turtle_Chelonia_mydas_is_basking_on_Punaluu_Beach_Big_Island_of_Hawaii.jpg)
+- **Mekong river beach**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Mekong_beach_in_Si_Phan_Don.jpg)
+- **Fishing boats aground**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:A_day_of_fishing_aground.jpg)
+- **Pirogue on a sandy island**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Careening_of_a_pirogue_on_a_sandy_beach_of_a_tiny_island_in_the_Mekong_near_Don_Det_in_Laos.jpg)
+- **Jetty to a Maldives island**: Martin Falbisoner, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Diamonds_Thudufushi_Beach_and_Water_Villas%2C_May_2017_-08.jpg)
+- **Water villas, Maldives**: Martin Falbisoner, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Diamonds_Thudufushi_Beach_and_Water_Villas%2C_May_2017_-03.jpg)
+- **Preveli palm beach, Crete**: Uoaei1, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Preveli_Palm_Beach_Panorama_02.JPG)
+
+## Gardens
+
+- **Japanese maple garden**: Jeremy Reding, CC BY-SA 2.0. [Source](https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_maple.jpg)
+- **Botanic garden in May**: King of Hearts, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Brooklyn_Botanic_Garden_New_York_May_2015_panorama_2.jpg)
+- **Moscow botanical garden**: AlixSaz, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Botanical_Garden%2C_Moscow.jpg)
+- **Rose garden bridge**: PumpkinSky, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rose_Garden_-_NATO_Vista_Bridge_3_NBG_LR.jpg)
+- **Temi tea garden**: Subhrajyoti07, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Cherry_Resort_inside_Temi_Tea_Garden%2C_Namchi%2C_Sikkim.jpg)
+- **Boston Public Garden**: Rhododendrites, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Boston_Public_Garden_%2836008p%29.jpg)
+- **Waterlily House, Kew**: Diliff, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Kew_Gardens_Waterlily_House_-_Sept_2008.jpg)
+- **Palm House, Kew**: Diliff, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Kew_Gardens_Palm_House%2C_London_-_July_2009.jpg)
+- **Keitaku-en Japanese garden**: Laitche, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:A_Japanese_garden_scene_from_a_chickee_in_Keitaku-en.jpg)
+
+## Architecture
+
+- **Blue streets of Chefchaouen**: Fbrandao.1963, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:2018_01_%28Blue%29_-_Chaouen.jpg)
+- **Piazzetta San Marco**: Benh LIEU SONG, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Piazzetta_San_Marco_Venice_BLS.jpg)
+- **Zappeion courtyard**: Jebulon, CC0. [Source](https://commons.wikimedia.org/wiki/File:Courtyard_Zappeion_Athens%2C_Greece.jpg)
+- **Atomium sphere**: Trougnouf (Benoit Brummer), CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Atomium_sphere_%28DSCF1211%29.jpg)
+- **Palace through a wooden gate**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Myeongjeongjeon_seen_through_the_wooden_Gate_Hyehwamun_at_Changgyeonggung_Palace_in_Seoul.jpg)
+- **Arab baths of Alhama**: SuperCar-RoadTrip.fr, CC BY 2.0. [Source](https://commons.wikimedia.org/wiki/File:Arabs_Baths_of_Alhama_de_Granada_in_Andalusia%2C_Spain.jpg)
+- **Golden Temple, Amritsar**: Oleg Yunakov, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Hamandir_Sahib_%28Golden_Temple%29.jpg)
+- **Blue domes of Oia**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg)
+- **Iwan ceiling, Fatima Masumeh Shrine**: Amir Pashaei, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:One_of_the_iwan_ceilings_of_Fatima_Masumeh_Shrine_in_atabki_sahn%2C_Qom%2C_Iran.jpg)
+
+## Textures
+
+- **Rusty rebar nets**: W.carter, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rusty_rebar_nets.jpg)
+- **Sunlit ripples in shallow water**: W.carter, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Ripples_dispersing_sunlight_into_underwater_rainbows_in_Brofjorden.jpg)
+- **Cherry wood grain**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Kirschholzbrett_--_2021_--_7656.jpg)
+- **Orange fishing net**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Orange_texture_made_of_a_fishing_net_on_a_wooden_board_at_golden_hour.jpg)
+- **Pastel chalk sticks**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Pastellkreide_--_2025_--_8665.jpg)
+- **Backlit rubber plant leaf**: Julian Herzog, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Backlit_ficus_elastica_leaf_texture_2014_02.jpg)
+- **Rusted metal studs, Nyhavn**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Kopenhagen_%28DK%29%2C_Nyhavn_--_2017_--_1711.jpg)
+- **Grand Prismatic Spring**: Jim Peaco, National Park Service, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Grand_prismatic_spring.jpg)
+- **Salt pans, Fuerteventura**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Antigua_%28Fuerteventura%2C_Spain%29%2C_Museo_de_las_Salinas_del_Carmen%2C_Kristallisierungsbecken_--_2025_--_7216.jpg)
+
+## Birds
+
+- **Scarlet macaw, Copán**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg)
+- **Lilac-breasted roller**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Lilac-breasted_roller_%28Coracias_caudatus_caudatus%29_Botswana.jpg)
+- **Common kingfisher**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Common_kingfisher_%28Alcedo_atthis_ispida%29_female_with_dragonfly_larva.jpg)
+- **Rainbow lorikeet, Sydney**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rainbow_lorikeet_%28Trichoglossus_moluccanus_moluccanus%29_Sydney.jpg)
+- **Hyacinth macaws under a pink ipê**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:007_Hyacinth_macaw_couple_under_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
+- **Greater flamingos, Camargue**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:009_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg)
+
+## Close-ups
+
+- **Peacock butterfly wings**: Charles J. Sharp, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Peacock_butterfly_%28Aglais_io%29_2.jpg)
+- **Dew on horsetail**: Luc Viatour, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Dew_on_an_Equisetum_fluviatile_Luc_Viatour.jpg)
+- **Sundew up close**: Luc Viatour, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Drosera_capensis_Luc_Viatour.jpg)
+- **Peacock feather**: MichaelMaggs, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Feather_of_male_Pavo_cristatus_%28Indian_peafowl%29.jpg)
+- **Snowflake up close**: Alexey Kljatov, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Snowflake_macro_photography_1.jpg)
+- **Spider web with fog droplets**: Brocken Inaglory, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Araneus_trifolium_and_its_web_with_fog_droplets_at_Twin_Peaks_in_San_Francisco.jpg)
+
+## Skies
+
+- **Rainbow over the Grand Canyon**: Tuxyso, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg)
+- **Big sky over Nørre Vorupør**: Slaunger, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:N%C3%B8rre_Vorup%C3%B8r_Coast_one_third_sky_2012-11-18.jpg)
+- **Lightning over Pritzerbe**: Mathias Krumbholz, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Lightning_Pritzerbe_01_%28MK%29.jpg)
+- **Tsarap River under rain clouds**: Timothy A. Gonsalves, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rain_Clouds_Tsarap_Phuktal_Zanskar_Jun24_R16_07793.jpg)
+- **Sun rays over the Waimakariri valley**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Stormy_sunset_over_Waimakariri_River_basin%2C_New_Zealand.jpg)
+- **Cirrus clouds at morning**: ADARSHluck, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Cirrus_uncinus_clouds_in_the_morning_sky.jpg)
+
+## Lakes & rivers
+
+- **Lake Salagou, Languedoc**: Christian Ferrer, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:La_Roque%2C_Salagou_Lake_01.jpg)
+- **Xe Don River at sunset**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Clouds_over_the_Xe_Don_River_with_boats_at_sunset_in_Pakse_Laos.jpg)
+- **Fisherman on Inle Lake**: Benh LIEU SONG, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Leg_Rowing_Fisherman_Inle_Lake_Myanmar.jpg)
+- **Lake Tekapo**: Krzysztof Golik, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Lake_Tekapo_01.jpg)
+- **Tufa towers, Mono Lake**: Vezoy, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Mono_Lake_Tufa.JPG)
+- **Cuckmere River meanders**: Arild Vågen, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:River_Cuckmere_April_2018_01.jpg)
+
+## Markets
+
+- **Peppers at a São Paulo market**: Wilfredor, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Capsicum_baccatum_in_Sa%C3%BAde_flea_market%2C_S%C3%A3o_Paulo%2C_Brazil.jpg)
+- **Dried chilies, Souk Al Milh**: yeowatzup, CC BY 2.0. [Source](https://commons.wikimedia.org/wiki/File:Souk_Al_Milh%2C_Sana%2C_Yemen_%284324865585%29.jpg)
+- **Fabric stall, Karachi**: Steve Evans, CC BY 2.0. [Source](https://commons.wikimedia.org/wiki/File:Karachi_-_Pakistan-market.jpg)
+- **Fresh fish, Ensenada market**: Tomascastelazo, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Ensenada_fish_market_2.jpg)
+- **Flea market still life**: AngMoKio, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Still_life_fleamarket_amk.jpg)
+- **Fruit stall, São Paulo Municipal Market**: Wilfredor, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Municipal_Market_of_S%C3%A3o_Paulo_city.jpg)
+
+## Ice & glaciers
+
+- **Iceberg with its underside showing**: AWeith, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg)
+- **Ice cave on Olkhon Island**: Sergey Pesterev, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Ice_cave_on_Olkhon_island.jpg)
+- **Perito Moreno Glacier**: Luca Galuzzi, CC BY-SA 2.5. [Source](https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG)
+- **Fjallsárlón glacier lagoon**: Jakub Hałun, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Fjalls%C3%A1rl%C3%B3n_glacier_lake%2C_Iceland%2C_20240719_1720_2774.jpg)
+- **Iceberg under the stars, North Star Bay**: Jeremy Harbeck, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Iceberg_in_North_Star_Bay%2C_Greenland.jpg)
+- **Frozen soap bubble**: Aaron Burden, CC0. [Source](https://commons.wikimedia.org/wiki/File:Frozen_soap_bubble_behind_fir_twigs_%28Unsplash_BojuZpqw4zM%29.jpg)
