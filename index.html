@@ -873,7 +873,6 @@ document.addEventListener("keydown",e=>{if(e.key!=="Escape"||$("v-explore").hidd
 
 /* ---------- start ---------- */
 drawSample(cv);fitFrame();runExtract();renderExplore();renderLibrary();initStore();
-})();
 
 /* ---------- install on a phone: only on the website, never inside Claude ---------- */
 (function(){
@@ -944,6 +943,7 @@ function renderToday(){
       el("span",{class:"strip","aria-hidden":"true"},p.colors.map(c=>el("i",{style:`background:${c.hex}`}))),
       el("span",{class:"meta"},[el("span",{class:"t",text:p.title}),el("span",{class:"c",text:d.toLocaleDateString(undefined,{weekday:"long"})})])])))]));
 }
+})();
 </script>
 
 

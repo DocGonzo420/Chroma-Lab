@@ -1,5 +1,5 @@
 /* Chroma Lab offline cache. Bump VERSION when index.html changes so phones pick up the new app. */
-const VERSION = "chroma-lab-v2";
+const VERSION = "chroma-lab-v3";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
