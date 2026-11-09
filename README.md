@@ -10,6 +10,7 @@ A color palette reference you can use on your phone. Browse real photos with the
 - **Codes:** HEX, RGB, HSL and CMYK for every color, with tap to copy.
 - **Library:** save palettes and come back to them.
 - **Cards:** make a printable reference card for any palette.
+- **Install:** on a phone, tap **Install** at the top to add Chroma Lab to the home screen. It then opens like an app and works offline for photos you've already viewed.
 
 ## Run it
 
@@ -23,6 +24,7 @@ The same app is also published as a Claude artifact. There it saves palettes to 
 - `photos/`: the library photos, about 720px on the long side.
 - `data/photos.tsv`: one row per photo, with theme, title, tags, credit, license and source.
 - `data/library.json`: the same photos with their palettes.
+- `manifest.webmanifest`, `sw.js` and `icons/`: let phones install the site as an app and keep it working offline.
 - `tools/add_photos.py`: adds new photos to the library (needs Python 3 with numpy and Pillow).
 
 ## Add photos

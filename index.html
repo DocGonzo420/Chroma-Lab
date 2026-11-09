@@ -3,6 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#14171d">
+<link rel="icon" type="image/png" href="icons/favicon-64.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Chroma Lab">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 </head>
 <body>
 <title>Chroma Lab</title>
@@ -45,6 +53,9 @@ header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background
 .cmyk i{width:9px;height:9px;display:block}
 .cmyk i:nth-child(1){background:var(--c)}.cmyk i:nth-child(2){background:var(--m)}.cmyk i:nth-child(3){background:var(--y)}.cmyk i:nth-child(4){background:var(--k)}
 h1{font-family:var(--f-display);font-weight:800;font-size:1.25rem;letter-spacing:-.01em;margin:0;white-space:nowrap}
+.install-btn{display:inline-flex;align-items:center;gap:5px;min-height:32px;padding:4px 12px;border-radius:999px;border:1px solid var(--accent);background:var(--accent);color:var(--accent-ink);font-weight:600;font-size:.85rem;cursor:pointer;white-space:nowrap}
+.install-btn[hidden]{display:none}
+.install-steps{margin:0;padding-left:1.3em;display:grid;gap:6px;line-height:1.45}
 .tabs{display:flex;background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:3px;gap:2px}
 .tabs button{border:0;background:none;padding:6px 14px;border-radius:999px;cursor:pointer;font-weight:600;font-size:.9rem;color:var(--muted)}
 .tabs button[aria-selected="true"]{background:var(--ink);color:var(--paper)}
@@ -188,7 +199,7 @@ h2{font-family:var(--f-display);font-weight:800;font-size:1.6rem;margin:0;letter
 </style>
 
 <header class="top"><div class="top-in">
-  <div class="brand"><span class="cmyk" aria-hidden="true"><i></i><i></i><i></i><i></i></span><h1>Chroma Lab</h1></div>
+  <div class="brand"><span class="cmyk" aria-hidden="true"><i></i><i></i><i></i><i></i></span><h1>Chroma Lab</h1><button class="install-btn" id="installBtn" type="button" hidden><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11"/><path d="m7 10 5 5 5-5"/><path d="M5 20h14"/></svg>Install</button></div>
   <nav class="tabs" role="tablist" aria-label="Views">
     <button role="tab" id="tab-explore" aria-selected="true" data-view="explore">Explore</button>
     <button role="tab" id="tab-studio" aria-selected="false" data-view="studio">Studio</button>
@@ -277,6 +288,12 @@ h2{font-family:var(--f-display);font-weight:800;font-size:1.6rem;margin:0;letter
 </main>
 
 <div id="toast" role="status" aria-live="polite"></div>
+<div class="sheet" id="installSheet" hidden role="dialog" aria-modal="true" aria-labelledby="installTitle"><div class="sheet-in">
+  <strong id="installTitle">Install Chroma Lab</strong>
+  <p class="sub" style="margin:0">Add it to your home screen and it opens like an app, even offline.</p>
+  <ol class="install-steps" id="installSteps"></ol>
+  <div class="row"><button class="btn primary" id="installClose" type="button">Got it</button></div>
+</div></div>
 <div class="sheet" id="sheet" hidden><div class="sheet-in">
   <strong id="sheetTitle"></strong>
   <p class="sub" id="sheetText" style="margin:0"></p>
@@ -838,6 +855,34 @@ document.addEventListener("keydown",e=>{if(e.key!=="Escape"||$("v-explore").hidd
 
 /* ---------- start ---------- */
 drawSample(cv);fitFrame();runExtract();renderExplore();renderLibrary();initStore();
+})();
+
+/* ---------- install on a phone: only on the website, never inside Claude ---------- */
+(function(){
+  const btn=$("installBtn"),sheet=$("installSheet");if(!btn||!sheet)return;
+  let framed=true;try{framed=window.top!==window.self;}catch(_){framed=true;}
+  const standalone=(window.matchMedia&&matchMedia("(display-mode: standalone)").matches)||navigator.standalone===true;
+  if(framed||standalone||location.protocol!=="https:")return;
+  if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
+  const ua=navigator.userAgent||"";
+  const ios=/iphone|ipad|ipod/i.test(ua)||(navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
+  const android=/android/i.test(ua);
+  let deferred=null;
+  window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferred=e;btn.hidden=false;});
+  window.addEventListener("appinstalled",()=>{deferred=null;btn.hidden=true;sheet.hidden=true;toast("Chroma Lab is on your home screen");});
+  if(ios)btn.hidden=false;
+  else if(android)setTimeout(()=>{btn.hidden=false;},1500);
+  const steps=ios
+    ?["Open this page in Safari.","Tap the Share button, the square with an arrow pointing up.","Scroll down and tap <b>Add to Home Screen</b>, then tap <b>Add</b>."]
+    :["Open your browser's menu, the three dots at the top or bottom.","Tap <b>Install app</b> or <b>Add to Home screen</b>.","Tap <b>Install</b> or <b>Add</b> to confirm."];
+  const close=()=>{sheet.hidden=true;btn.focus();};
+  btn.addEventListener("click",async()=>{
+    if(deferred){const d=deferred;deferred=null;d.prompt();const r=await d.userChoice.catch(()=>null);if(r&&r.outcome==="accepted")btn.hidden=true;return;}
+    $("installSteps").innerHTML=steps.map(t=>"<li>"+t+"</li>").join("");sheet.hidden=false;$("installClose").focus();
+  });
+  $("installClose").addEventListener("click",close);
+  sheet.addEventListener("click",e=>{if(e.target===sheet)close();});
+  document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!sheet.hidden)close();});
 })();
 </script>
 
