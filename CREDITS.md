@@ -549,6 +549,6 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 
 ## Community
 
-Photos shared by Chroma Lab users through the Community photo form. Each person confirmed they took the photo or own the rights to it.
+Photos shared by Chroma Lab users. Each person confirmed they took the photo or own the rights to it, and chose its license.
 
 None yet.

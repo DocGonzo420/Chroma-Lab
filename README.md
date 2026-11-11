@@ -28,9 +28,10 @@ The same app is also published as a Claude artifact. There it saves palettes to 
 - `data/library.json`: the same photos with their palettes.
 - `manifest.webmanifest`, `sw.js` and `icons/`: let phones install the site as an app and keep it working offline.
 - `tools/add_photos.py`: adds new photos to the library (needs Python 3 with numpy and Pillow).
-- `photos/community/` and `data/community.json`: approved community photos.
-- `tools/add_community.py`: adds an approved community photo.
-- `.github/ISSUE_TEMPLATE/community-photo.yml`: the form people fill in to share a photo.
+- `photos/community/`, `community/` and `data/community.json`: approved community photos and their details.
+- `worker/`: the Cloudflare Worker that receives shared photos and opens a pull request for each.
+- `tools/build_community.py`: rebuilds the Community list after a merge (run by `.github/workflows/community.yml`).
+- `tools/add_community.py`: adds a community photo by hand.
 
 ## Add photos
 
@@ -42,15 +43,18 @@ The script works out the new palettes and writes the library back into `index.ht
 
 ## Community photos
 
-Anyone can share a photo they took. In Studio, after pulling a palette from their own photo, they tap **Share to Community**. The app asks for a title, the name to credit and a license (CC BY 4.0 or CC0), and has them confirm three things: they took the photo or own the rights, no one in it can be recognized or everyone agreed, and Chroma Lab may show it under that license. It then saves the photo and opens the **Community photo** form on GitHub with everything filled in, where they attach the photo. Sharing needs a free GitHub account, and the post is public while it's reviewed.
+Anyone can share a photo they took, with no account. On the website, after pulling a palette from their own photo in Studio, they tap **Share to Community**. The app asks for a title, the name to credit, an optional place and a license (CC BY 4.0 or CC0), and has them confirm three things: they took the photo or own the rights, no one in it can be recognized or everyone agreed, and Chroma Lab may show it under that license. A Cloudflare Turnstile check stops bots.
 
-Nothing goes into the app until you approve it:
+The photo goes to a small Cloudflare Worker (`worker/`), which checks it, removes its location data and opens a pull request with two files: `photos/community/<id>.jpg` and `community/<id>.json`. Nothing shows in the app until you approve it:
 
-1. Look at the issue. Close it if it's spam, not a real photo, or shows people who didn't agree.
-2. Download the attached photo and run `python3 tools/add_community.py` with the details from the issue (`--help` shows an example).
-3. Open a pull request with the changes, merge it, and close the issue.
+- **Approve:** merge the pull request. A GitHub Action (`.github/workflows/community.yml`) then runs `tools/build_community.py`, which adds the photo to the Community filter, `data/community.json` and CREDITS.md.
+- **Turn down:** close the pull request and press **Delete branch**.
 
-The script resizes the photo, removes its location data, keeps the shared palette and writes the credit into the app and CREDITS.md. In the app, approved photos show under the **Community** filter in Explore. `--remove <id>` takes one out.
+Photos are capped at 1200 pixels on the long side and 1 MB, and usually come in around 300 KB, so a few hundred of them add well under 100 MB to the repo.
+
+Setup (once): see [worker/README.md](worker/README.md). Until the Worker's address and the Turnstile site key are filled in at `COMMUNITY_API` and `TURNSTILE_SITEKEY` in `index.html`, the Share button stays hidden. Sharing only works on the website, not inside Claude.
+
+To add a photo someone sent you another way, run `python3 tools/add_community.py` (`--help` shows an example). `--remove <id>` takes one out.
 
 ## Photo credits
 

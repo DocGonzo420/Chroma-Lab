@@ -1,0 +1,11 @@
+# Only needed if you deploy with the wrangler command line. The dashboard works too (see worker/README.md).
+name = "chroma-lab-community"
+main = "index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+REPO = "DocGonzo420/Chroma-Lab"
+ALLOWED_ORIGINS = "https://docgonzo420.github.io"
+# Secrets are set separately, never in this file:
+#   npx wrangler secret put GITHUB_TOKEN
+#   npx wrangler secret put TURNSTILE_SECRET
