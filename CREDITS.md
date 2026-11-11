@@ -390,6 +390,9 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Tad Hang falls at sunset**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Tad_Hang_waterfalls_at_sunset%2C_Tad_Lo_village%2C_Bolaven_Plateau%2C_Laos.jpg)
 - **Russian Gulch waterfall**: Frank Schulenburg, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Waterfall_in_Russian_Gulch_State_Park.jpg)
 - **Phu Sang Waterfall**: Khunkay, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Phu_Sang_Waterfall_01.jpg)
+- **Selfoss, Iceland**: Martin Falbisoner, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Selfoss_July_2014.JPG)
+- **Khrangsuri waterfall, Meghalaya**: Chirnzb (edit: UnpetitproleX), CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Khrangsuri_waterfall%2C_Meghalaya_01_%28edit%29.jpg)
+- **Yosemite Falls**: Diliff, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Yosemite_Falls_from_trail%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg)
 
 ## Countryside
 
@@ -410,6 +413,8 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Neptune and Amphitrite, Herculaneum**: Jebulon, CC0. [Source](https://commons.wikimedia.org/wiki/File:Neptune_Amphitrite_mosaic_Herculaneum.jpg)
 - **Azulejos in Lisbon**: Alvesgaspar, CC BY 2.5. [Source](https://commons.wikimedia.org/wiki/File:Azulejos_Parque_Eduardo_VII-2.jpg)
 - **Lotfollah Mosque dome**: Phillip Maiwald, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg)
+- **Lustre tile, Louvre**: Unknown artist (Louvre), Public domain. [Source](https://commons.wikimedia.org/wiki/File:Tile_al-Qazwini_Louvre_MAO1194.jpg)
+- **Qajar tiles with pink roses**: Unknown Qajar artist, Public domain. [Source](https://commons.wikimedia.org/wiki/File:001117_15-44-2002-To-grupper-rosa-Qajar-Fliser2.jpg)
 
 ## Minerals & gems
 
@@ -420,6 +425,9 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Wulfenite from Mexico**: Didier Descouens, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Wulfenite_mexique.jpg)
 - **Grape agate**: JJ Harrison, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Botryoidal_Purple_Grape_Agate_Chalcedony_from_Indonesia.jpg)
 - **Pyrite cubes**: Uoaei1, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Pyrit_01.jpg)
+- **Fluorescent calcite**: Jan Pavelka, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Fluorescence_in_calcite.jpg)
+- **Celestine, Madagascar**: Ivar Leidus, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Celestine_-_Sakoany_deposit%2C_Katsepy%2C_Mitsinjo%2C_Boeny%2C_Madagascar.jpg)
+- **Sulfur crystals, Bolivia**: Ivar Leidus, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg)
 
 ## Fungi & moss
 
@@ -440,3 +448,101 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Rainbow over volcanic cones**: Ted.ns, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B0%D0%B4%D1%83%D0%B3%D0%B0_%D0%BD%D0%B0%D0%B4_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%BC%D0%B8_%D0%BA%D0%BE%D0%BD%D1%83%D1%81%D0%B0%D0%BC%D0%B8.jpg)
 - **Litli-Hrútur eruption**: Giles Laurent, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:001_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg)
 - **Taal Volcano ash column**: Michael Angelo Luna, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Taal_Volcano_eruption_on_January_12%2C_2020.jpg)
+- **Basalt columns, Hidalgo**: Diego Delso, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Prismas_Bas%C3%A1lticos%2C_Huasca_de_Ocampo%2C_Hidalgo%2C_M%C3%A9xico%2C_2013-10-10%2C_DD_25.JPG)
+- **Geyser runoff, Yellowstone**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_%28WY%2C_USA%29%2C_Firehole_River%2C_Abflusskanal_des_Excelsior_Geysirs_--_2022_--_2572-4.jpg)
+
+## Butterflies
+
+- **Brimstone butterfly**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Common_brimstone_butterfly_%28Gonepteryx_rhamni%29_male.jpg)
+- **Autumn leaf butterfly, Bali**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg)
+- **Monarch butterfly**: Rhododendrites, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Monarch_butterfly_%2870387%29.jpg)
+- **Blue morpho**: john.purvis, CC BY 2.0. [Source](https://commons.wikimedia.org/wiki/File:Morpho_butterfly_-_Seaforde_Gardens_and_Tropical_Butterfly_House.jpg)
+- **Striped blue crow**: Prasan Shrestha, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Striped_blue_crow_butterfly.jpg)
+- **Common tiger butterfly**: Charles J. Sharp, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Common_tiger_%28Danaus_genutia_genutia%29_male_underside.jpg)
+
+## Cats & dogs
+
+- **Cat in the snow**: Von.grzanka, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Felis_catus-cat_on_snow.jpg)
+- **Blue-eyed cat**: Frank Schulenburg, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Blue-eyed_domestic_cat_%28Felis_silvestris_catus%29.jpg)
+- **Tabby cats in a park, Osaka**: Laitche, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Tabby_cats_of_%C5%8Cizumi_Ryokuchi_Park%2C_January_2019_-_8816.jpg)
+- **Cat at an old window**: Pudelek, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:P%C5%99%C3%ADchovice_-_old_window_and_cat.jpg)
+- **Golden retriever**: Dietmar Rabich, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5945.jpg)
+- **Search and rescue dog**: Aciarium, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:DSC09611a_Search_and_Rescue_Dog%2C_Austrian_Red_Cross_Perchtoldsdorf%2C_2024-10.jpg)
+
+## Stained glass
+
+- **Stained glass, Nysa cathedral**: Pudelek (Marcin Szala), CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Stained_glass_in_Nysa_cathedral.jpg)
+- **Conservatory window, Marquand House**: Richard Morris Hunt and Eugène Oudinot (Metropolitan Museum of Art), CC0. [Source](https://commons.wikimedia.org/wiki/File:Henry_G._Marquand_House_Conservatory_Stained_Glass_Window.jpg)
+- **Holy Spirit window, St. Peter's**: Wilfredor, CC0. [Source](https://commons.wikimedia.org/wiki/File:Holy_Spirit_stained-glass_window_%28Cathedra_Petri%29.jpg)
+- **Coat of arms window, Sforza Castle**: Julian Lupyan, CC0. [Source](https://commons.wikimedia.org/wiki/File:Stained_Glass_Coat_of_Arms_dated_1674%2C_Sforza_Castle%2C_Milan.jpg)
+- **Church windows, Mallorca**: H. Zell, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg)
+- **St Elisabeth window, 18th century**: Petar Milošević, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:St_Elisabeth_of_Hungary_%2818._century%2C_stained_glass%29.jpg)
+
+## Fabrics & yarn
+
+- **Rainbow yarn, Graz**: Lusi Lindwurm, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rainbow_yarn_for_knitting%2C_display_in_front_of_a_needlework_shop_in_Graz%2C_Austria%2C_GW23-100.jpg)
+- **Thread bobbins**: Jebulon, CC0. [Source](https://commons.wikimedia.org/wiki/File:Bobines_fil_Rouffignac.jpg)
+- **Embroidered cashmere shawl**: Kritzolina, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Embroidery_on_a_cashmere_shawl_01.jpg)
+- **Shawl embroidery detail**: Kritzolina, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Embroidery_on_a_cashmere_shawl_09.jpg)
+- **Sunshine and Shadow quilt, 1880s**: Daderot, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Sunshine_and_Shadow%2C_Mennonite%2C_Pennsylvania%2C_1880s_-_Museum_of_Fine_Arts%2C_Boston_-_DSC02694.JPG)
+- **Yarns in shades of grey**: Anna.Massini, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Various_yarns_including_embroidery_thread%2C_filoforte_and_wool_in_various_shades_of_grey.jpg)
+
+## Boats & harbors
+
+- **Two trawlers in Sète**: Christian Ferrer, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Two_trawlers_in_S%C3%A8te.jpg)
+- **Tall ships at Sète**: Christian Ferrer, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Escale_%C3%A0_S%C3%A8te_2022_G.jpg)
+- **Lindau harbor steamer**: Julian Herzog, CC BY 4.0. [Source](https://commons.wikimedia.org/wiki/File:Lindau_Harbor_Lake_Constance_MS_Schwaben_01.jpg)
+- **Five boats at dusk, Duisburg**: Tuxyso, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Duisburger_Innenhafen_Five_Boats_Abend_2014.jpg)
+- **Wooden boat, Alanya**: Kallerna, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Boat_in_Alanya.jpg)
+- **Rapperswil harbor**: Roland zh, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Rapperswil_-_Hafen_IMG_0963.JPG)
+
+## Storms & rain
+
+- **Storm at Pors-Loubous**: Henri Camus, CC BY 1.0. [Source](https://commons.wikimedia.org/wiki/File:A_storm_at_Pors-Loubous.jpg)
+- **Lightning strikes**: Smial, FAL. [Source](https://commons.wikimedia.org/wiki/File:Blitze_IMGP6376_wp.jpg)
+- **Rain over the Luss Hills**: Michal Klajban, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Rain_over_Beinn_Eich%2C_Luss_Hills%2C_Scotland.jpg)
+- **Rain over Holma marina**: W.carter, CC0. [Source](https://commons.wikimedia.org/wiki/File:Rain_over_Holma_marina.jpg)
+- **Storm clouds on the Mekong**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Landscape_with_stormy_clouds_and_a_pirogue_on_the_Mekong_at_golden_hour_in_Si_Phan_Don.jpg)
+- **Rain over the Grand Canyon**: Romain Guy, CC0. [Source](https://commons.wikimedia.org/wiki/File:Rain_over_Grand_Canyon.jpg)
+- **Falling rain, Mexico**: Tomascastelazo, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Falling_rain_in_mexico.jpg)
+- **Purple rain on a roof**: W.carter, CC0. [Source](https://commons.wikimedia.org/wiki/File:Purple_rain_on_roof.jpg)
+
+## Fruit & berries
+
+- **Squashes and pumpkins**: George Chernilevsky, Public domain. [Source](https://commons.wikimedia.org/wiki/File:Cucurbita_2011_G1.jpg)
+- **Four pears**: Rhododendrites, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Four_pears.jpg)
+- **Dish of blueberries**: Petar Milošević, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Dish_of_blueberries.jpg)
+- **Lychees**: Ivar Leidus, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Lychee_fruits_and_seed.jpg)
+- **Guelder rose berries**: Ivar Leidus, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Viburnum_opulus_fruits_close-up_-_Keila.jpg)
+- **Grapes, Dry Creek Valley**: Frank Schulenburg, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Grapes%2C_Dry_Creek_Valley-7705.jpg)
+- **Green grapes on the vine**: W.carter, CC0. [Source](https://commons.wikimedia.org/wiki/File:Solaris_grapes_in_Chateaux_Luna_vineyard_24.jpg)
+- **Oregon grape berries**: Agnes Monkelbaan, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg)
+
+## Pottery & ceramics
+
+- **Tajines in a pottery shop**: Jafri Ali, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Tajines_in_a_pottery_shop_in_Morocco.jpg)
+- **Painted vases, Bukhara**: Nikolai Bulykin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D1%85%D0%B0%D1%80%D0%B0%2C_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%A5%D0%BE%D0%B4%D0%B6%D0%B0%D0%B5%D0%B2%D0%B0%2C_%D0%B2%D0%B0%D0%B7%D0%B0_%289%29.jpg)
+- **Glazed vase, Bukhara**: Nikolai Bulykin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D1%85%D0%B0%D1%80%D0%B0%2C_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%A5%D0%BE%D0%B4%D0%B6%D0%B0%D0%B5%D0%B2%D0%B0%2C_%D0%B2%D0%B0%D0%B7%D0%B0_%283%29.jpg)
+- **Pilgrim flask**: J. Paul Getty Museum, CC0. [Source](https://commons.wikimedia.org/wiki/File:Pilgrim_Flask.jpg)
+- **Imperial dessert service, Vienna**: Jebulon, CC0. [Source](https://commons.wikimedia.org/wiki/File:Service_dessert_Victoria_Franz-Joseph_Vienna_inv_191.jpg)
+- **Pair of spindle vases, Louvre**: Sèvres Porcelain Manufactory (photo: Louvre), CC0. [Source](https://commons.wikimedia.org/wiki/File:Pair_of_Spindle_Vases_-_OA_11090_-_Louvre_%2801%29.jpg)
+
+## Canyons
+
+- **Bryce Canyon hoodoos**: Jon Zander (Digon3), CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Bryce_Canyon_Hoodoos.jpg)
+- **Lower Antelope Canyon**: King of Hearts, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Lower_Antelope_Canyon_November_2018_017.jpg)
+- **Grand Canyon South Rim at sunset**: Mgimelfarb, CC0. [Source](https://commons.wikimedia.org/wiki/File:Grand_Canyon_South_Rim_at_Sunset.jpg)
+- **Måbødalen valley, Norway**: Simo Räsänen (Ximonic), CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:M%C3%A5b%C3%B8dalen%2C_2011_August.jpg)
+- **Flosagjá fissure, Iceland**: Diego Delso, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Ca%C3%B1%C3%B3n_Flosagja%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_043.JPG)
+- **Grand Canyon in March**: Tomascastelazo, CC BY-SA 3.0. [Source](https://commons.wikimedia.org/wiki/File:Grand_canyon_march_2013.jpg)
+- **Sunrise Point, Bryce Canyon**: King of Hearts, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Sunrise_Point_Bryce_Canyon_November_2018_002.jpg)
+
+## Lanterns
+
+- **Hanging lanterns, Marrakech souk**: Petar Milošević, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Oriental_hanging_lanterns._Souk_Haddadine%2C_Marrakech_Medina_%28%D8%B3%D9%88%D9%82_%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF%D9%8A%D9%86_%D9%85%D8%B1%D8%A7%D9%83%D8%B4%29.jpg)
+- **Paper lanterns, Bulguksa temple**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Courtyard_of_colorful_paper_lanterns_and_shadow_patterns_at_Bulguksa_temple_Gyeongju_South_Korea.jpg)
+- **Star lanterns at blue hour, Luang Prabang**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Colorful_star-shaped_lanterns_hanging_on_a_building_at_blue_hour_in_Luang_Prabang_Laos.jpg)
+- **White paper lanterns, Kyoto**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:White_paper_lanterns_hanging_in_Buden_Yasaka_Shrine_in_Kyoto_Japan.jpg)
+- **Lanterns in Rishikesh**: Satdeep Gill, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Lanterns_in_Rishikesh.jpg)
+- **Red lanterns, Tokyo**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Illuminated_facade_of_a_3-storey_restaurant_with_Japanese_signs_and_red_paper_lanterns%2C_Chiyoda%2C_Tokyo.jpg)
+- **Torii path with lantern, Fushimi Inari**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg)

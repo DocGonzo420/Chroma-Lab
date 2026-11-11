@@ -4,8 +4,8 @@ A color palette reference you can use on your phone. Browse real photos with the
 
 ## What it does
 
-- **Explore:** 337 real photos in 34 searchable themes, each with a 6-color palette. Search by place, color word (like sage, rust or teal) or HEX code.
-- **Moods:** search by 31 moods, like cozy, calm, moody, dreamy, earthy or neon, plus synonyms such as snug or serene. Tap a mood chip under the search box, or mix words like "cozy autumn". Each photo shows its top moods.
+- **Explore:** 413 real photos in 44 searchable themes, each with a 6-color palette. Search by place, color word (like sage, rust or teal) or HEX code.
+- **Moods:** search by 43 moods, like cozy, calm, moody, dreamy, earthy, neon, coastal or boho, plus synonyms such as snug or serene. Tap a mood chip under the search box, or mix words like "cozy autumn". Each photo shows its top moods.
 - **Studio:** load your own photo and pull 5 to 8 colors from it.
 - **Codes:** HEX, RGB, HSL and CMYK for every color, with tap to copy.
 - **Library:** save palettes and come back to them.
