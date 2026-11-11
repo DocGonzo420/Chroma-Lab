@@ -155,6 +155,8 @@ h2{font-family:var(--f-display);font-weight:800;font-size:1.6rem;margin:0;letter
 .themes button[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 .themes button[aria-pressed="true"] .ct{color:inherit;opacity:.7}
 .themes button[aria-pressed="true"] .dots i{box-shadow:0 0 0 1.5px var(--ink)}
+.themes button.src{border-style:dashed}
+.themes button.src[aria-pressed="true"]{border-style:solid}
 .moods{padding-bottom:6px;margin-bottom:2px}
 .moods .lbl,.moodtags .lbl{flex:none;align-self:center;font:600 .7rem/1 var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding-right:2px}
 .moodtags{margin-bottom:8px}
@@ -237,7 +239,7 @@ h2{font-family:var(--f-display);font-weight:800;font-size:1.6rem;margin:0;letter
       <div class="themes" id="themes" role="group" aria-label="Themes"></div>
       <div class="ex-countrow"><p class="ex-count" id="exCount" aria-live="polite"></p><button class="btn sm" id="exRandom" type="button"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="8.5" cy="8.5" r="1.3" fill="currentColor" stroke="none"/><circle cx="15.5" cy="15.5" r="1.3" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.3" fill="currentColor" stroke="none"/></svg>Random</button></div>
       <div class="ex" id="exGrid"></div>
-      <p class="ex-foot">All photos come from Wikimedia Commons under Creative Commons or public-domain licenses. Each photo's page shows its photographer and license, and the credit goes on any card you make from it.</p>
+      <p class="ex-foot">All photos come from Wikimedia Commons under Creative Commons or public-domain licenses. Each photo's page shows its photographer and license, and the credit goes on any card you make from it. Tap Mine to see the palettes you've saved.</p>
     </div>
     <div id="exPhoto" hidden></div>
   </section>
@@ -554,6 +556,8 @@ $("saveNew").addEventListener("click",()=>save(true));
 const libUI={renaming:null,deleting:null};
 function fmtDate(iso){try{return new Date(iso).toLocaleDateString(undefined,{year:"numeric",month:"short",day:"numeric"})}catch(_){return""}}
 function renderLibrary(){
+  if(EX.open&&EX.open.startsWith("mine:")&&!$("exPhoto").hidden)renderPhoto();
+  renderExplore();
   const lib=$("lib"),items=[...Store.items].sort((a,b)=>(b.updated||"").localeCompare(a.updated||""));
   $("libNote").replaceChildren(Store.note?el("div",{class:"note",text:Store.note}):"");
   $("libSub").textContent=!Store.loaded?"Loading your saved palettes…":items.length?`${items.length} saved palette${items.length===1?"":"s"}`:"Nothing saved yet";
@@ -750,19 +754,50 @@ const MOODS=[
 const MOODWORDS={};for(const [id,syn] of MOODS)for(const w of syn)if(!MOODWORDS[w])MOODWORDS[w]=id;
 /* main mood chips shown under the search box */
 const MOODCHIPS=["calm","cozy","moody","dreamy","vibrant","earthy","pastel","dramatic","golden","fresh","romantic","nostalgic","mysterious","luxurious","minimal","fiery","airy","festive","neon","gloomy","coastal","boho","twilight","gothic","citrus","cinematic"];
+const MOODSCALE={keys:["L","C","W","maxC","contrast","hueVar"],mu:{},sd:{},sorted:{},cut:{}};
 (function scoreMoods(){
-  const st=LIB.map(moodStats),keys=["L","C","W","maxC","contrast","hueVar"],mu={},sd={};
+  const st=LIB.map(moodStats),keys=MOODSCALE.keys,mu=MOODSCALE.mu,sd=MOODSCALE.sd;
   for(const k of keys){const v=st.map(s=>s[k]);mu[k]=v.reduce((a,b)=>a+b,0)/v.length;sd[k]=Math.sqrt(v.reduce((a,b)=>a+(b-mu[k])**2,0)/v.length)||1;}
   LIB.forEach((it,i)=>{it._ms=st[i];it._mz={};for(const k of keys)it._mz[k]=(st[i][k]-mu[k])/sd[k];it._mood={};});
   for(const [id,,f,hints] of MOODS){
     const hs=hints.map(fold);
     const sc=LIB.map(it=>f(it._mz,it._ms)+(hs.some(h=>it.theme===h||it.tags.some(t=>fold(t)===h))?0.9:0));
-    const sorted=[...sc].sort((a,b)=>b-a),cut=sorted[Math.floor(sc.length*0.18)];
+    const sorted=[...sc].sort((a,b)=>b-a),cut=sorted[Math.floor(sc.length*0.18)];MOODSCALE.sorted[id]=sorted;MOODSCALE.cut[id]=cut;
     LIB.forEach((it,i)=>{const pct=sorted.indexOf(sc[i])/sc.length;it._mood[id]={s:sc[i],pct,on:sc[i]>=cut};});}
   /* each photo's three strongest moods, for its detail page */
   for(const it of LIB)it._topMoods=Object.entries(it._mood).filter(([,m])=>m.on).sort((a,b)=>a[1].pct-b[1].pct).slice(0,3).map(([id])=>id);
 })();
 const EX={theme:"all",q:"",open:null,sel:0,list:LIB,scroll:0};
+
+/* ---------- Mine: your saved palettes, shown in Explore behind a filter chip ---------- */
+function mineItem(sv){
+  const raw=(sv.colors||[]).filter(c=>c&&/^#[0-9a-f]{6}$/i.test(c.hex||"")),n=raw.length||1;
+  const colors=raw.map(c=>({hex:c.hex.toUpperCase(),share:c.share==null?1/n:c.share,x:c.x,y:c.y,manual:c.share==null}));
+  const cr=sv.credit||null;
+  const it={id:"mine:"+sv.id,src:"mine",saved:sv,theme:"mine",title:(sv.name||"").trim()||"Untitled palette",tags:[],
+    credit:cr?cr.by:"You",license:cr?cr.license:"",source:cr?cr.source:"",cr,file:sv.photo||"",w:3,h:2,colors};
+  it._labs=colors.map(c=>hexLab(c.hex));
+  it._hay=fold([it.title,"mine","saved",cr?cr.title:"",it.credit,...colors.map(c=>c.hex)].join(" "));
+  it._ms=moodStats(it);it._mz={};for(const k of MOODSCALE.keys)it._mz[k]=(it._ms[k]-MOODSCALE.mu[k])/MOODSCALE.sd[k];
+  it._mood={};
+  for(const [id,,f] of MOODS){const sc=colors.length?f(it._mz,it._ms):-1e9,sorted=MOODSCALE.sorted[id];
+    let above=0;while(above<sorted.length&&sorted[above]>sc)above++;
+    it._mood[id]={s:sc,pct:above/sorted.length,on:sc>=MOODSCALE.cut[id]};}
+  it._topMoods=Object.entries(it._mood).filter(([,m])=>m.on).sort((a,b)=>a[1].pct-b[1].pct).slice(0,3).map(([id])=>id);
+  return it;
+}
+let mineCache={src:null,list:[]};
+function MINE(){
+  if(mineCache.src!==Store.items){
+    const items=[...Store.items].sort((a,b)=>(b.updated||"").localeCompare(a.updated||""));
+    mineCache={src:Store.items,list:items.map(mineItem)};}
+  return mineCache.list;
+}
+const findItem=id=>id&&id.startsWith("mine:")?MINE().find(x=>x.id===id):LIB.find(x=>x.id===id);
+const placeOf=it=>it.src==="mine"?"Mine":TL[it.theme];
+/* a saved palette with no photo shows its colors in the photo's place */
+function swatchFill(it,label){const n=it.colors.length||1,bg=it.colors.map((c,i)=>`${c.hex} ${(i/n*100).toFixed(1)}% ${((i+1)/n*100).toFixed(1)}%`).join(",");
+  return el("div",{class:"ph-miss",role:"img","aria-label":label,style:`aspect-ratio:3/2;background:linear-gradient(90deg,${bg||"var(--line)"})`});}
 
 function parseQuery(q){
   return fold(q).split(/[\s,]+/).filter(Boolean).map(t=>{
@@ -790,33 +825,41 @@ function search(items,q){
 }
 
 function renderExplore(){
-  const base=search(LIB,EX.q),inTheme=EX.theme==="all"?base.list:base.list.filter(it=>it.theme===EX.theme);
+  const mine=EX.theme==="mine",lib=search(LIB,EX.q),mres=search(MINE(),EX.q),base=mine?mres:lib;
+  const inTheme=mine||EX.theme==="all"?base.list:base.list.filter(it=>it.theme===EX.theme);
   EX.list=inTheme;
   // theme chips, with counts for the current search
   const th=$("themes");th.replaceChildren();
-  const counts={};for(const it of base.list)counts[it.theme]=(counts[it.theme]||0)+1;
+  const counts={};for(const it of lib.list)counts[it.theme]=(counts[it.theme]||0)+1;
   const chip=(id,label,n,dots)=>el("button",{"aria-pressed":String(EX.theme===id),onclick:()=>{EX.theme=id;renderExplore();}},[
     dots?el("span",{class:"dots","aria-hidden":"true"},dots.map(h=>el("i",{style:`background:${h}`}))):null,
     el("span",{text:label}),el("span",{class:"ct",text:String(n)})]);
-  th.append(chip("all","All",base.list.length,null));
+  th.append(chip("all","All",lib.list.length,null));
+  const mineN=mres.near?0:mres.list.length,m0=MINE()[0];
+  if(mine||!EX.q||mineN){const c=chip("mine","Mine",mineN,m0?m0.colors.slice(0,3).map(c=>c.hex):null);c.classList.add("src");c.title="Palettes you've saved";th.append(c);}
   for(const [id,label] of THEMES){const first=LIB.find(x=>x.theme===id);
     if(!counts[id]&&EX.theme!==id&&EX.q)continue;
     th.append(chip(id,label,counts[id]||0,first?first.colors.slice(0,3).map(c=>c.hex):null));}
   renderMoods();
-  const n=inTheme.length,where=EX.theme==="all"?"":` in ${TL[EX.theme]}`;
-  $("exCount").textContent=base.near?`No close match for “${EX.q.trim()}”, so here are the nearest colors${where}.`:
-    EX.q.trim()?`${n} photo${n===1?"":"s"} match “${EX.q.trim()}”${where}`:
+  const n=inTheme.length,where=EX.theme==="all"?"":mine?" in Mine":` in ${TL[EX.theme]}`,what=mine?"palette":"photo";
+  $("exCount").textContent=base.near&&n?`No close match for “${EX.q.trim()}”, so here are the nearest colors${where}.`:
+    EX.q.trim()?`${n} ${what}${n===1?"":"s"} match “${EX.q.trim()}”${where}`:
+    mine?(Store.loaded?`${n} saved palette${n===1?"":"s"}`:"Loading your saved palettes…"):
     EX.theme==="all"?`${n} photos in ${THEMES.length} themes`:`${n} photos${where}`;
   $("exClear").hidden=!EX.q;
   const g=$("exGrid");g.replaceChildren();
-  if(!n){g.append(el("div",{class:"empty",style:"grid-column:1/-1"},[el("strong",{text:"No photos match that."}),
+  if(!n&&mine&&!EX.q.trim()){g.append(el("div",{class:"empty",style:"grid-column:1/-1"},[el("strong",{text:Store.loaded?"Nothing saved yet.":"Loading your saved palettes…"}),
+    el("p",{text:"Palettes you save show up here. Pull colors from your own photo in Studio, or tap Save to my library on any photo."}),
+    el("button",{class:"btn",onclick:()=>show("studio"),text:"Go to Studio"})]));return;}
+  if(!n){g.append(el("div",{class:"empty",style:"grid-column:1/-1"},[el("strong",{text:mine?"None of your palettes match that.":"No photos match that."}),
     el("p",{text:"Try a place, a mood like cozy or dreamy, a color word like teal, or a HEX code like #C8553D."}),
     el("button",{class:"btn",onclick:()=>{EX.q="";EX.theme="all";$("exSearch").value="";renderExplore();},text:"Show all photos"})]));return;}
   for(const it of inTheme){
-    g.append(el("button",{class:"ph","aria-label":`${it.title}, ${TL[it.theme]}`,onclick:()=>openPhoto(it.id)},[
-      el("img",{src:it.file,alt:"",loading:"lazy",decoding:"async",width:String(it.w),height:String(it.h),onerror:photoFail(it)}),
+    const sub=it.src==="mine"?(it.cr?`Mine · ${it.credit}`:`Mine · ${fmtDate(it.saved.updated||it.saved.created)}`):`${TL[it.theme]} · ${it.credit}`;
+    g.append(el("button",{class:"ph","aria-label":`${it.title}, ${placeOf(it)}`,onclick:()=>openPhoto(it.id)},[
+      it.file?el("img",{src:it.file,alt:"",loading:"lazy",decoding:"async",width:String(it.w),height:String(it.h),onerror:photoFail(it)}):swatchFill(it,`${it.title} (no photo saved)`),
       el("span",{class:"strip","aria-hidden":"true"},it.colors.map(c=>el("i",{style:`background:${c.hex}`}))),
-      el("span",{class:"meta"},[el("span",{class:"t",text:it.title}),el("span",{class:"c",text:`${TL[it.theme]} · ${it.credit}`})])]));}
+      el("span",{class:"meta"},[el("span",{class:"t",text:it.title}),el("span",{class:"c",text:sub})])]));}
 }
 function renderMoods(){
   const box=$("moods");box.replaceChildren(el("span",{class:"lbl",text:"Moods"}));
@@ -843,9 +886,10 @@ function openPhoto(id){
 }
 function closePhoto(){EX.open=null;$("exPhoto").hidden=true;$("exList").hidden=false;const y=EX.scroll;requestAnimationFrame(()=>window.scrollTo(0,y));}
 function renderPhoto(){
-  const it=LIB.find(x=>x.id===EX.open);if(!it){closePhoto();return;}
+  const it=findItem(EX.open);if(!it){closePhoto();return;}
+  const isMine=it.src==="mine";
   const box=$("exPhoto");box.replaceChildren();
-  const list=EX.list.includes(it)?EX.list:LIB,i=list.indexOf(it);
+  const list=EX.list.includes(it)?EX.list:isMine?MINE():LIB,i=list.indexOf(it);
   const step=d=>{const nx=list[(i+d+list.length)%list.length];EX.open=nx.id;EX.sel=0;renderPhoto();};
   box.append(el("div",{class:"pd-bar"},[el("button",{class:"btn sm",onclick:closePhoto,text:"← All photos"}),el("span",{class:"grow"}),
     el("span",{class:"sub",style:"margin:0",text:`${i+1} of ${list.length}`}),
@@ -853,19 +897,23 @@ function renderPhoto(){
     el("button",{class:"btn sm","aria-label":"Previous photo",onclick:()=>step(-1),text:"Prev"}),
     el("button",{class:"btn sm","aria-label":"Next photo",onclick:()=>step(1),text:"Next"})]));
   const marks=it.colors.map((c,j)=>c.x==null?null:el("div",{class:"mk"+(j===EX.sel?" sel":""),style:`left:${c.x*100}%;top:${c.y*100}%;background:${c.hex};color:${textOn(c.hex)}`,text:String(j+1)}));
-  const left=el("div",{},[el("div",{class:"pd-photo"},[el("img",{src:it.file,alt:it.title,width:String(it.w),height:String(it.h),onerror:photoFail(it)}),...marks]),
-    el("p",{class:"byline"},creditNodes(creditOf(it)))]);
+  const left=el("div",{},[el("div",{class:"pd-photo"},[it.file?el("img",{src:it.file,alt:it.title,onerror:photoFail(it)}):swatchFill(it,`${it.title} (no photo saved)`),...(it.file?marks:[])]),
+    el("p",{class:"byline"},isMine&&!it.cr?[`Your palette · saved ${fmtDate(it.saved.updated||it.saved.created)}`]:creditNodes(isMine?it.cr:creditOf(it)))]);
   const chips=el("div",{class:"chips"},it.colors.map((c,j)=>el("button",{class:"chip","aria-pressed":String(j===EX.sel),"aria-label":`Swatch ${j+1}, ${c.hex}`,onclick:()=>{EX.sel=j;renderPhoto();}},[
     el("div",{class:"sw",style:`background:${c.hex}`}),
-    el("div",{class:"tx"},[el("span",{class:"n",text:String(j+1).padStart(2,"0")}),el("span",{class:"h",text:c.hex}),el("span",{class:"p",text:`${Math.max(1,Math.round(c.share*100))}% of photo`})])])));
+    el("div",{class:"tx"},[el("span",{class:"n",text:String(j+1).padStart(2,"0")}),el("span",{class:"h",text:c.hex}),el("span",{class:"p",text:c.manual?"Picked by hand":`${Math.max(1,Math.round(c.share*100))}% of photo`})])])));
   const c=it.colors[EX.sel],C=codes(c.hex);
   const det=el("div",{class:"detail"},[el("div",{class:"big",style:`background:${c.hex}`,"aria-hidden":"true"}),
     el("div",{class:"codes"},C.list.map(([lab,shown,copy])=>el("button",{class:"code","aria-label":`Copy ${lab} ${copy}`,onclick:()=>copyText(copy,`Copied ${copy}`)},[el("b",{text:lab}),el("span",{text:shown}),el("em",{text:"Copy"})])))]);
-  const tagBtn=t=>el("li",{},el("button",{onclick:()=>{EX.q=t;EX.theme="all";$("exSearch").value=t;closePhoto();renderExplore();window.scrollTo(0,0);},text:t}));
-  const right=el("div",{},[el("p",{class:"label",style:"margin:0",text:TL[it.theme]}),el("h2",{text:it.title}),
+  const tagBtn=t=>el("li",{},el("button",{onclick:()=>{EX.q=t;EX.theme=isMine?"mine":"all";$("exSearch").value=t;closePhoto();renderExplore();window.scrollTo(0,0);},text:t}));
+  const right=el("div",{},[el("p",{class:"label",style:"margin:0",text:placeOf(it)}),el("h2",{text:it.title}),
     it._topMoods.length?el("ul",{class:"tags moodtags","aria-label":"Moods"},[el("li",{class:"lbl",text:"Mood"}),...it._topMoods.map(tagBtn)]):null,
-    el("ul",{class:"tags","aria-label":"Tags"},it.tags.map(tagBtn)),
+    it.tags.length?el("ul",{class:"tags","aria-label":"Tags"},it.tags.map(tagBtn)):null,
     el("p",{class:"label",text:"Palette"}),chips,det,
+    isMine?el("div",{class:"row pd-acts"},[
+      el("button",{class:"btn primary",onclick:()=>openSaved(it.saved,"studio"),text:"Open in Studio"}),
+      el("button",{class:"btn",onclick:()=>openSaved(it.saved,"card"),text:"Make card"}),
+      el("button",{class:"btn ghost",onclick:()=>copyText(it.colors.map(x=>x.hex).join(", "),"Copied all HEX codes"),text:"Copy all HEX"})]):
     el("div",{class:"row pd-acts"},[
       el("button",{class:"btn primary",onclick:()=>loadLib(it,()=>show("studio")),text:"Open in Studio"}),
       el("button",{class:"btn",onclick:e=>{const b=e.currentTarget;b.disabled=true;loadLib(it,async()=>{await save(false);b.disabled=false;},()=>{b.disabled=false;});},text:"Save to my library"}),
