@@ -1,5 +1,5 @@
 /* Chroma Lab offline cache. Bump VERSION when index.html changes so phones pick up the new app. */
-const VERSION = "chroma-lab-v5";
+const VERSION = "chroma-lab-v6";
 /* photos never change once added, so they keep their own cache across app updates */
 const PHOTOS = "chroma-lab-photos";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png"];
