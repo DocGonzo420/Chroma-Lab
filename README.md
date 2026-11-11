@@ -28,6 +28,9 @@ The same app is also published as a Claude artifact. There it saves palettes to 
 - `data/library.json`: the same photos with their palettes.
 - `manifest.webmanifest`, `sw.js` and `icons/`: let phones install the site as an app and keep it working offline.
 - `tools/add_photos.py`: adds new photos to the library (needs Python 3 with numpy and Pillow).
+- `photos/community/` and `data/community.json`: approved community photos.
+- `tools/add_community.py`: adds an approved community photo.
+- `.github/ISSUE_TEMPLATE/community-photo.yml`: the form people fill in to share a photo.
 
 ## Add photos
 
@@ -37,6 +40,18 @@ The same app is also published as a Claude artifact. There it saves palettes to 
 
 The script works out the new palettes and writes the library back into `index.html`. A new theme also needs an entry in `THEMES` in `index.html`. Moods are worked out in the browser from each palette's lightness, saturation, warmth and hues, so new photos get them automatically. The mood list is `MOODS` in `index.html`.
 
+## Community photos
+
+Anyone can share a photo they took. In Studio, after pulling a palette from their own photo, they tap **Share to Community**. The app asks for a title, the name to credit and a license (CC BY 4.0 or CC0), and has them confirm three things: they took the photo or own the rights, no one in it can be recognized or everyone agreed, and Chroma Lab may show it under that license. It then saves the photo and opens the **Community photo** form on GitHub with everything filled in, where they attach the photo. Sharing needs a free GitHub account, and the post is public while it's reviewed.
+
+Nothing goes into the app until you approve it:
+
+1. Look at the issue. Close it if it's spam, not a real photo, or shows people who didn't agree.
+2. Download the attached photo and run `python3 tools/add_community.py` with the details from the issue (`--help` shows an example).
+3. Open a pull request with the changes, merge it, and close the issue.
+
+The script resizes the photo, removes its location data, keeps the shared palette and writes the credit into the app and CREDITS.md. In the app, approved photos show under the **Community** filter in Explore. `--remove <id>` takes one out.
+
 ## Photo credits
 
-The photos come from Wikimedia Commons under free licenses (CC BY, CC BY-SA, CC0 or public domain). Each photo keeps its own license, and the credits are in [CREDITS.md](CREDITS.md) and in the app. The GPL-3.0 license in this repo covers the code only.
+The library photos come from Wikimedia Commons under free licenses (CC BY, CC BY-SA, CC0 or public domain). Community photos are shared by their photographers under CC BY 4.0 or CC0. Each photo keeps its own license, and the credits are in [CREDITS.md](CREDITS.md) and in the app. The GPL-3.0 license in this repo covers the code only.

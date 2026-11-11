@@ -546,3 +546,9 @@ Every photo in Chroma Lab comes from Wikimedia Commons under a free license. Eac
 - **Lanterns in Rishikesh**: Satdeep Gill, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Lanterns_in_Rishikesh.jpg)
 - **Red lanterns, Tokyo**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Illuminated_facade_of_a_3-storey_restaurant_with_Japanese_signs_and_red_paper_lanterns%2C_Chiyoda%2C_Tokyo.jpg)
 - **Torii path with lantern, Fushimi Inari**: Basile Morin, CC BY-SA 4.0. [Source](https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg)
+
+## Community
+
+Photos shared by Chroma Lab users through the Community photo form. Each person confirmed they took the photo or own the rights to it.
+
+None yet.
